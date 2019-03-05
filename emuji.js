@@ -1,10 +1,10 @@
-const bot_secret = require('./bot-secret')
+const bot_secret = require('./lib/bot-secret')
+var emubot = require('./lib/bot');
 
-var emubot = require('./bot');
-const emuji = require("./emuji-functions")
+var emuji = require('./lib/emuji-functions');
 
-const Discord = require('discord.js')
-const client = new Discord.Client()
+const discord = require('discord.js')
+const client = new discord.Client()
 
 // const emuji = require("./emuji-functions")
 const emujiUserID = "Emuji#8780"
