@@ -1,6 +1,7 @@
 module.exports = {
 
   react: function(msg) {
+    var fuzz = Math.random()
     var emoji = []
 
     if (msg) {
@@ -8,188 +9,6 @@ module.exports = {
     } else {
       msg = ""
     }
-
-    if (msg.includes("kitt")) { emoji.push(this.randomCatEmoji()) }
-    if (msg.includes("fish")) { emoji.push(this.randomFishEmoji()) }
-    if (msg.includes("treat")) { emoji.push(this.randomTreatEmoji()) }
-
-    // Animals
-    if (msg.includes("ant")) { emoji.push("🐜") }
-    if (msg.includes("bat")) { emoji.push("🦇") }
-    if (msg.includes("bear")) { emoji.push("🐻") }
-    if (msg.includes("bee")) { emoji.push("🐝") }
-    if (msg.includes("beluga")) { emoji.push("🐋") }
-    if (msg.includes("boar")) { emoji.push("🐗") }
-    if (msg.includes("bot")) { emoji.push("🤖") }
-    if (msg.includes("bun")) { emoji.push("🐇") }
-    if (msg.includes("buff")) { emoji.push("🐃") }
-    if (msg.includes("bug")) { emoji.push("🐞") }
-    if (msg.includes("bull")) { emoji.push("🐂") }
-    if (msg.includes("camel")) { emoji.push("🐪") }
-    if (msg.includes("cater")) { emoji.push("🐛") }
-    if (msg.includes("chick")) { emoji.push("🐓") }
-    if (msg.includes("cricket")) { emoji.push("🦗") } // conflict with the english sport
-    if (msg.includes("chipmunk")) { emoji.push("🐿") }
-    if (msg.includes("cow")) { emoji.push("🐄") }
-    if (msg.includes("cheet")) { emoji.push("🐆") }
-    if (msg.includes("crab")) { emoji.push("🦀") }
-    if (msg.includes("deer")) { emoji.push("🦌") }
-    if (msg.includes("dino")) { emoji.push("🦖") }
-    if (msg.includes("dove")) { emoji.push("🕊") }
-    if (msg.includes("draco")) { emoji.push("🐉") }
-    if (msg.includes("draca")) { emoji.push("🐉") }
-    if (msg.includes("drago")) { emoji.push("🐉") }
-    if (msg.includes("dolph")) { emoji.push("🐬") }
-    if (msg.includes("duck")) { emoji.push("🦆") }
-    if (msg.includes("eagle")) { emoji.push("🦅") }
-    if (msg.includes("egg")) { emoji.push("🥚") }
-    if (msg.includes("eleph")) { emoji.push("🐘") }
-    if (msg.includes("elk")) { emoji.push("🦌") }
-    if (msg.includes("fox")) { emoji.push("🦊") }
-    if (msg.includes("gira")) { emoji.push("🦒") }
-    if (msg.includes("goat")) { emoji.push("🐐") }
-    if (msg.includes("grasshop")) { emoji.push("🦗") }
-    if (msg.includes("hedge")) { emoji.push("🦔") }
-    if (msg.includes("horse")) { emoji.push("🐴") }
-    if (msg.includes("ladybug")) { emoji.push("🐞") }
-    if (msg.includes("leop")) { emoji.push("🐆") }
-    if (msg.includes("lion")) { emoji.push("🦁") }
-    if (msg.includes("liz")) { emoji.push("🦎") }
-    if (msg.includes("locus")) { emoji.push("🦗") }
-    if (msg.includes("moose")) { emoji.push("🦌") }
-    if (msg.includes("mouse")) { emoji.push("🐭") }
-    if (msg.includes("octo")) { emoji.push("🐙") }
-    if (msg.includes("owl")) { emoji.push("🦉") }
-    if (msg.includes("pand")) { emoji.push("🐼") }
-    if (msg.includes("pig")) { emoji.push("🐷") }
-    if (msg.includes("oink")) { emoji.push("🐽") }
-    if (msg.includes("moo")) { emoji.push("🐮") }
-    if (msg.includes("porc")) { emoji.push("🐷") }
-    if (msg.includes("pork")) { emoji.push("🐷") }
-    if (msg.includes("rabbit")) { emoji.push("🐰") }
-    if (msg.includes("rat")) { emoji.push("🐀") }
-    if (msg.includes("rhino")) { emoji.push("🦏") }
-    if (msg.includes("raptor")) { emoji.push("raptor") }
-    if (msg.includes("ram")) { emoji.push("🐏") }
-    if (msg.includes("scorp")) { emoji.push("🦂") }
-    if (msg.includes("shark")) { emoji.push("🦈") }
-    if (msg.includes("sheep")) { emoji.push("🐏") }
-    if (msg.includes("shep")) { emoji.push("🐏") }
-    if (msg.includes("shrimp")) { emoji.push("🦐") }
-    if (msg.includes("snail")) { emoji.push("🐌") }
-    if (msg.includes("snake")) { emoji.push("🐍") }
-    if (msg.includes("squid")) { emoji.push("🦑") }
-    if (msg.includes("spider")) { emoji.push("🕷") }
-    if (msg.includes("squirrel")) { emoji.push("🐿") }
-    if (msg.includes("tiger")) { emoji.push("🐅") }
-    if (msg.includes("tortoise")) { emoji.push("🐢") }
-    if (msg.includes("turtle")) { emoji.push("🐢") }
-    if (msg.includes("turk")) { emoji.push("🦃") }
-    if (msg.includes("viper")) { emoji.push("🐍") }
-    if (msg.includes("whal")) { emoji.push("🐳") }
-    if (msg.includes("zebr")) { emoji.push("🦓") }
-
-    // Food
-    if (msg.includes("beef")) { emoji.push("🐮") }
-    if (msg.includes("salad")) { emoji.push("🥗") }
-    if (msg.includes("pinea")) { emoji.push("🍍") }
-    if (msg.includes("steak")) { emoji.push("🐮") }
-    if (msg.includes("prawn")) { emoji.push("🦐") }
-    if (msg.includes("chinese")) { emoji.push("🥡") }
-    if (msg.includes("fortune")) { emoji.push("🥠") }
-    if (msg.includes("dumpl")) { emoji.push("🥟") }
-    if (msg.includes("won")) { emoji.push("🥟") }
-    if (msg.includes("bento")) { emoji.push("🍱") }
-    if (msg.includes("konmari")) { emoji.push("🍱") }
-    if (msg.includes("rice")) { emoji.push("🍙") }
-    if (msg.includes("ramen")) { emoji.push("🍜") }
-    if (msg.includes("nood")) { emoji.push("🍜") }
-    if (msg.includes("spagh")) { emoji.push("🍝") }
-    if (msg.includes("yam")) { emoji.push("🍠") }
-    if (msg.includes("sushi")) { emoji.push("🍣") }
-    if (msg.includes("nigiri")) { emoji.push("🍣") }
-    if (msg.includes("sashimi")) { emoji.push("🍣") }
-    if (msg.includes("naruto")) { emoji.push("🍥") }
-    if (msg.includes("cone")) { emoji.push("🍦") }
-    if (msg.includes("icecream")) { emoji.push("🍦") }
-    if (msg.includes("coffee")) { emoji.push("☕") }
-    if (msg.includes("tea")) { emoji.push("🍵") }
-    if (msg.includes("popcorn")) { emoji.push("🍿") }
-
-    // Plants
-    if (msg.includes("flower")) { emoji.push("💐") }
-    if (msg.includes("rose")) { emoji.push("🌹") }
-    if (msg.includes("tulip")) { emoji.push("🌷") }
-    if (msg.includes("dais")) { emoji.push("🌼") }
-    if (msg.includes("sunf")) { emoji.push("🌻") }
-    if (msg.includes("pink")) { emoji.push("🌸") }
-    if (msg.includes("cherry")) { emoji.push("🌸") }
-    if (msg.includes("brocc")) { emoji.push("🥦") }
-    if (msg.includes("cact")) { emoji.push("🌵") }
-    if (msg.includes("saguaro")) { emoji.push("🌵") }
-    if (msg.includes("palm")) { emoji.push("🌴") }
-    if (msg.includes("pine")) { emoji.push("🌲") }
-    if (msg.includes("clover")) { emoji.push("🍀") }
-    if (msg.includes("leaf")) { emoji.push("🍁") }
-    if (msg.includes("leav")) { emoji.push("🍁") }
-    if (msg.includes("maple")) { emoji.push("🍁") }
-    if (msg.includes("grape")) { emoji.push("🍇") }
-    if (msg.includes("melon")) { emoji.push("🍉") }
-    if (msg.includes("watermel")) { emoji.push("🍉") }
-    if (msg.includes("orang")) { emoji.push("🍊") }
-    if (msg.includes("lemon")) { emoji.push("🍋") }
-    if (msg.includes("banana")) { emoji.push("🍌") }
-    if (msg.includes("apple")) { emoji.push("🍎") }
-    if (msg.includes("pear")) { emoji.push("🍐") }
-    if (msg.includes("peach")) { emoji.push("🍑") }
-    if (msg.includes("strawb")) { emoji.push("🍓") }
-    if (msg.includes("cherry")) { emoji.push("🍒") }
-    if (msg.includes("tomat")) { emoji.push("🍅") }
-    if (msg.includes("coconut")) { emoji.push("🥥") }
-    if (msg.includes("avocad")) { emoji.push("🥑") }
-    if (msg.includes("avacad")) { emoji.push("🥑") }
-    if (msg.includes("avocat")) { emoji.push("🥑") }
-    if (msg.includes("eggplant")) { emoji.push("🍆") }
-    if (msg.includes("potato")) { emoji.push("🥔") }
-    if (msg.includes("carrot")) { emoji.push("🥕") }
-    if (msg.includes(" corn")) { emoji.push("🌽") } // not popcorn
-    if (msg.includes("maize")) { emoji.push("🌽") }
-    if (msg.includes("hot")) { emoji.push("🌶") }
-    if (msg.includes("pepper")) { emoji.push("🌶") }
-    if (msg.includes("spic")) { emoji.push("🌶") } // spicy, sorry
-    if (msg.includes("cucum")) { emoji.push("🥒") }
-    if (msg.includes("mushroom")) { emoji.push("🍄") }
-    if (msg.includes("peanut")) { emoji.push("🥜") }
-    if (msg.includes("pancak")) { emoji.push("🥞") }
-    if (msg.includes("chees")) { emoji.push("🧀") }
-    if (msg.includes("fries")) { emoji.push("🍟") }
-    if (msg.includes("fry")) { emoji.push("🍟") }
-    if (msg.includes("pizza")) { emoji.push("🍕") }
-    if (msg.includes("sandwich")) { emoji.push("🥪") }
-    if (msg.includes("bacon")) { emoji.push("🐽") }
-    if (msg.includes("burger")) { emoji.push("🍔") }
-    if (msg.includes("hotdog")) { emoji.push("🌭") }
-    if (msg.includes("taco")) { emoji.push("🌮") }
-    if (msg.includes("burrito")) { emoji.push("🌯") }
-    if (msg.includes("purrito")) { emoji.push("🌯") }
-    if (msg.includes("croissant")) { emoji.push("🥐") }
-    if (msg.includes("crescent")) { emoji.push("🥐") }
-    if (msg.includes("baguette")) { emoji.push("🥖") }
-    if (msg.includes("bread")) { emoji.push("🥖") }
-    if (msg.includes("loaf")) { emoji.push("🍞") }
-    if (msg.includes("falaf")) { emoji.push("🥙") }
-    if (msg.includes("bowl")) { emoji.push("🥣") }
-    if (msg.includes("soup")) { emoji.push("🍲") }
-    if (msg.includes("cake")) { emoji.push("🎂") }
-    if (msg.includes("cookie")) { emoji.push("🍪") }
-    if (msg.includes("donut")) { emoji.push("🍩") }
-    if (msg.includes("doughnut")) { emoji.push("🍩") }
-    if (msg.includes("donot")) { emoji.push("🍩") }
-    if (msg.includes("ice")) { emoji.push("🍦") }
-    if (msg.includes("milk")) { emoji.push("🥛") }
-    if (msg.includes("glass")) { emoji.push("🥛") }
-    if (msg.includes("drink")) { emoji.push("🥤") }
-    if (msg.includes("can")) { emoji.push("🥫") } // this one will be fun
 
     // In-jokes and references
     if (msg.includes("poo")) { emoji.push("💩") }
@@ -277,7 +96,198 @@ module.exports = {
     if (msg.includes("birthday")) { emoji.push("🎂") }
     if (msg.includes("anniversary")) { emoji.push("🎂") }
     if (msg.includes("code")) { emoji.push("🥑") }
+    if (msg.includes("konmari")) { emoji.push("🍱") }
+    if (msg.includes("dick")) { emoji.push("🍆") }
+    if (msg.includes("penis")) { emoji.push("🍆") }
+    if (msg.includes("psiloc")) { emoji.push("🍄") } // magic mushrooms
+    if (msg.includes("mario")) { emoji.push("🍄") } // magic mushrooms
+    if (msg.includes("purrito")) { emoji.push("🌯") }
+    if (msg.includes("crescent")) { emoji.push("🥐") }
+    if (msg.includes("pain in the")) { emoji.push("🥙") }
 
+    // Animals
+    if (msg.includes("emu")) { emoji.push("🐦") }
+    if (msg.includes("emo")) { emoji.push("🐦") }
+
+    if (msg.includes("ant")) { emoji.push("🐜") }
+    if (msg.includes("bat")) { emoji.push("🦇") }
+    if (msg.includes("bear")) { emoji.push("🐻") }
+    if (msg.includes("bee")) { emoji.push("🐝") }
+    if (msg.includes("beluga")) { emoji.push("🐋") }
+    if (msg.includes("boar")) { emoji.push("🐗") }
+    if (msg.includes("bot")) { emoji.push("🤖") }
+    if (msg.includes("bun")) { emoji.push("🐇") }
+    if (msg.includes("buff")) { emoji.push("🐃") }
+    if (msg.includes("bug")) { emoji.push("🐞") }
+    if (msg.includes("bull")) { emoji.push("🐂") }
+    if (msg.includes("camel")) { emoji.push("🐪") }
+    if (msg.includes("cater")) { emoji.push("🐛") }
+    if (msg.includes("chick")) { emoji.push("🐓") }
+    if (msg.includes("cricket")) { emoji.push("🦗") } // conflict with the english sport
+    if (msg.includes("chipmunk")) { emoji.push("🐿") }
+    if (msg.includes("cow")) { emoji.push("🐄") }
+    if (msg.includes("cheet")) { emoji.push("🐆") }
+    if (msg.includes("crab")) { emoji.push("🦀") }
+    if (msg.includes("deer")) { emoji.push("🦌") }
+    if (msg.includes("dino")) { emoji.push("🦖") }
+    if (msg.includes("dove")) { emoji.push("🕊") }
+    if (msg.includes("draco")) { emoji.push("🐉") }
+    if (msg.includes("draca")) { emoji.push("🐉") }
+    if (msg.includes("drago")) { emoji.push("🐉") }
+    if (msg.includes("dolph")) { emoji.push("🐬") }
+    if (msg.includes("duck")) { emoji.push("🦆") }
+    if (msg.includes("eagle")) { emoji.push("🦅") }
+    if (msg.includes("egg")) { emoji.push("🥚") }
+    if (msg.includes("eleph")) { emoji.push("🐘") }
+    if (msg.includes("elk")) { emoji.push("🦌") }
+    if (msg.includes("fox")) { emoji.push("🦊") }
+    if (msg.includes("gira")) { emoji.push("🦒") }
+    if (msg.includes("goat")) { emoji.push("🐐") }
+    if (msg.includes("grasshop")) { emoji.push("🦗") }
+    if (msg.includes("hatch")) { emoji.push("🐣") }
+    if (msg.includes("hedge")) { emoji.push("🦔") }
+    if (msg.includes("horse")) { emoji.push("🐴") }
+    if (msg.includes("ladybug")) { emoji.push("🐞") }
+    if (msg.includes("leop")) { emoji.push("🐆") }
+    if (msg.includes("lion")) { emoji.push("🦁") }
+    if (msg.includes("liz")) { emoji.push("🦎") }
+    if (msg.includes("locus")) { emoji.push("🦗") }
+    if (msg.includes("moose")) { emoji.push("🦌") }
+    if (msg.includes("mouse")) { emoji.push("🐭") }
+    if (msg.includes("octo")) { emoji.push("🐙") }
+    if (msg.includes("owl")) { emoji.push("🦉") }
+    if (msg.includes("pand")) { emoji.push("🐼") }
+    if (msg.includes("pig")) { emoji.push("🐷") }
+    if (msg.includes("oink")) { emoji.push("🐽") }
+    if (msg.includes("moo")) { emoji.push("🐮") }
+    if (msg.includes("porc")) { emoji.push("🐷") }
+    if (msg.includes("pork")) { emoji.push("🐷") }
+    if (msg.includes("rabbit")) { emoji.push("🐰") }
+    if (msg.includes("rat")) { emoji.push("🐀") }
+    if (msg.includes("rhino")) { emoji.push("🦏") }
+    if (msg.includes("raptor")) { emoji.push("raptor") }
+    if (msg.includes("ram")) { emoji.push("🐏") }
+    if (msg.includes("scorp")) { emoji.push("🦂") }
+    if (msg.includes("shark")) { emoji.push("🦈") }
+    if (msg.includes("sheep")) { emoji.push("🐏") }
+    if (msg.includes("shep")) { emoji.push("🐏") }
+    if (msg.includes("shrimp")) { emoji.push("🦐") }
+    if (msg.includes("snail")) { emoji.push("🐌") }
+    if (msg.includes("snake")) { emoji.push("🐍") }
+    if (msg.includes("squid")) { emoji.push("🦑") }
+    if (msg.includes("spider")) { emoji.push("🕷") }
+    if (msg.includes("squirrel")) { emoji.push("🐿") }
+    if (msg.includes("tiger")) { emoji.push("🐅") }
+    if (msg.includes("tortoise")) { emoji.push("🐢") }
+    if (msg.includes("turtle")) { emoji.push("🐢") }
+    if (msg.includes("turk")) { emoji.push("🦃") }
+    if (msg.includes("viper")) { emoji.push("🐍") }
+    if (msg.includes("whal")) { emoji.push("🐳") }
+    if (msg.includes("zebr")) { emoji.push("🦓") }
+
+    // Food
+    if (msg.includes("apple")) { emoji.push("🍎") }
+    if (msg.includes("avocad")) { emoji.push("🥑") }
+    if (msg.includes("avacad")) { emoji.push("🥑") }
+    if (msg.includes("avocat")) { emoji.push("🥑") }
+    if (msg.includes("bacon")) { emoji.push("🐽") }
+    if (msg.includes("baguette")) { emoji.push("🥖") }
+    if (msg.includes("bowl")) { emoji.push("🥣") }
+    if (msg.includes("bread")) { emoji.push("🥖") }
+    if (msg.includes("burger")) { emoji.push("🍔") }
+    if (msg.includes("banana")) { emoji.push("🍌") }
+    if (msg.includes("beef")) { emoji.push("🐮") }
+    if (msg.includes("bento")) { emoji.push("🍱") }
+    if (msg.includes("burrito")) { emoji.push("🌯") }
+    if (msg.includes("cake")) { emoji.push("🎂") }
+    if (msg.includes("can")) { emoji.push("🥫") } // this one will be fun
+    if (msg.includes("carrot")) { emoji.push("🥕") }
+    if (msg.includes("cherry")) { emoji.push("🍒") }
+    if (msg.includes("chees")) { emoji.push("🧀") }
+    if (msg.includes("chinese")) { emoji.push("🥡") }
+    if (msg.includes("coconut")) { emoji.push("🥥") }
+    if (msg.includes("coffee")) { emoji.push("☕") }
+    if (msg.includes("cookie")) { emoji.push("🍪") }
+    if (msg.includes("cone")) { emoji.push("🍦") }
+    if (msg.includes(" corn")) { emoji.push("🌽") }
+    if ((msg.includes("corn")) && (!(msg.includes("popcorn")))) { emoji.push("🌽") }
+    if (msg.includes("croissant")) { emoji.push("🥐") }
+    if (msg.includes("cucum")) { emoji.push("🥒") }
+    if (msg.includes("donut")) { emoji.push("🍩") }
+    if (msg.includes("doughnut")) { emoji.push("🍩") }
+    if (msg.includes("donot")) { emoji.push("🍩") }
+    if (msg.includes("drink")) { emoji.push("🥤") }
+    if (msg.includes("dumpl")) { emoji.push("🥟") }
+    if (msg.includes("fortune")) { emoji.push("🥠") }
+    if (msg.includes("fry")) { emoji.push("🍟") }
+    if (msg.includes("fries")) { emoji.push("🍟") }
+    if (msg.includes("eggplant")) { emoji.push("🍆") }
+    if (msg.includes("hot")) { emoji.push("🌶") }
+    if (msg.includes("hotdog")) { emoji.push("🌭") }
+    if (msg.includes("falaf")) { emoji.push("🥙") }
+    if (msg.includes("ice")) { emoji.push("🍦") }
+    if (msg.includes("glass")) { emoji.push("🥛") }
+    if (msg.includes("grape")) { emoji.push("🍇") }
+    if (msg.includes("icecream")) { emoji.push("🍦") }
+    if (msg.includes("lemon")) { emoji.push("🍋") }
+    if (msg.includes("loaf")) { emoji.push("🍞") }
+    if (msg.includes("maize")) { emoji.push("🌽") }
+    if (msg.includes("maki")) { emoji.push("🍥") }
+    if (msg.includes("melon")) { emoji.push("🍉") }
+    if (msg.includes("milk")) { emoji.push("🥛") }
+    if (msg.includes("mushroom")) { emoji.push("🍄") }
+    if (msg.includes("nigiri")) { emoji.push("🍣") }
+    if (msg.includes("naruto")) { emoji.push("🍥") }
+    if (msg.includes("nood")) { emoji.push("🍜") }
+    if (msg.includes("orang")) { emoji.push("🍊") }
+    if (msg.includes("pancak")) { emoji.push("🥞") }
+    if (msg.includes("pear")) { emoji.push("🍐") }
+    if (msg.includes("peach")) { emoji.push("🍑") }
+    if (msg.includes("peanut")) { emoji.push("🥜") }
+    if (msg.includes("pepper")) { emoji.push("🌶") }
+    if (msg.includes("pickle")) { emoji.push("🥒") }
+    if (msg.includes("pinea")) { emoji.push("🍍") }
+    if (msg.includes("pita")) { emoji.push("🥙") }
+    if (msg.includes("pizza")) { emoji.push("🍕") }
+    if (msg.includes("popcorn")) { emoji.push("🍿") }
+    if (msg.includes("potato")) { emoji.push("🥔") }
+    if (msg.includes("prawn")) { emoji.push("🦐") }
+    if (msg.includes("pretz")) { emoji.push("🥨") }
+    if (msg.includes("ramen")) { emoji.push("🍜") }
+    if (msg.includes("rice")) { emoji.push("🍙") }
+    if (msg.includes("salad")) { emoji.push("🥗") }
+    if (msg.includes("sandwich")) { emoji.push("🥪") }
+    if (msg.includes("soup")) { emoji.push("🍲") }
+    if (msg.includes("spic")) { emoji.push("🌶") } // spicy, sorry
+    if (msg.includes("steak")) { emoji.push("🐮") }
+    if (msg.includes("strawb")) { emoji.push("🍓") }
+    if (msg.includes("sushi")) { emoji.push("🍣") }
+    if (msg.includes("taco")) { emoji.push("🌮") }
+    if (msg.includes("tea")) { emoji.push("🍵") }
+    if (msg.includes("tomat")) { emoji.push("🍅") }
+    if (msg.includes("sashimi")) { emoji.push("🍣") }
+    if (msg.includes("spagh")) { emoji.push("🍝") }
+    if (msg.includes("watermel")) { emoji.push("🍉") }
+    if (msg.includes("won")) { emoji.push("🥟") }
+    if (msg.includes("yam")) { emoji.push("🍠") }
+
+    // Plants
+    if (msg.includes("flower")) { emoji.push("💐") }
+    if (msg.includes("rose")) { emoji.push("🌹") }
+    if (msg.includes("tulip")) { emoji.push("🌷") }
+    if (msg.includes("dais")) { emoji.push("🌼") }
+    if (msg.includes("sunf")) { emoji.push("🌻") }
+    if (msg.includes("pink")) { emoji.push("🌸") }
+    if (msg.includes("cherry")) { emoji.push("🌸") }
+    if (msg.includes("brocc")) { emoji.push("🥦") }
+    if (msg.includes("cact")) { emoji.push("🌵") }
+    if (msg.includes("saguaro")) { emoji.push("🌵") }
+    if (msg.includes("palm")) { emoji.push("🌴") }
+    if (msg.includes("pine")) { emoji.push("🌲") }
+    if (msg.includes("clover")) { emoji.push("🍀") }
+    if (msg.includes("leaf")) { emoji.push("🍁") }
+    if (msg.includes("leav")) { emoji.push("🍁") }
+    if (msg.includes("maple")) { emoji.push("🍁") }
 
     // Transportation
     if (msg.includes("boat")) { emoji.push("🚣") }
@@ -303,7 +313,8 @@ module.exports = {
     if (msg.includes("copter")) { emoji.push("🚁") }
     if (msg.includes("chopper")) { emoji.push("🚁") }
     if (msg.includes("rocket")) { emoji.push("🚀") }
-    //if (msg.includes("ufo")) { emoji.push("🛸") }
+    if (msg.includes("space")) { emoji.push("🚀") }
+    //if (msg.includes("ufo")) { emoji.push("🛸") } // ufo emoji is not supported by discord
     //if (msg.includes("alien")) { emoji.push("🛸") }
     if (msg.includes("alien")) { emoji.push("👽") }
     if (msg.includes("martia")) { emoji.push("👽") }
@@ -420,7 +431,7 @@ module.exports = {
     if (msg.includes("couch")) { emoji.push("🛋") }
     if (msg.includes("lamp")) { emoji.push("🛋") }
     if (msg.includes("sofa")) { emoji.push("🛋") }
-    if (msg.includes("bed")) { emoji.push("🛏") }
+    if ((msg.includes("bed")) && (!(msg.includes("embed")))) { emoji.push("🛏") }
     if (msg.includes("door")) { emoji.push("🚪") }
     if (msg.includes("shower")) { emoji.push("🚿") }
     if (msg.includes("hair")) { emoji.push("💈") }
@@ -463,6 +474,9 @@ module.exports = {
     if (msg.includes("sparkle")) { emoji.push("✨") }
     if (msg.includes("shiny")) { emoji.push("✨") }
     if (msg.includes("yay")) { emoji.push("🎉") }
+    if (msg.includes("yay!")) { emoji.push("🎊") }
+    if (msg.includes("yes!")) { emoji.push("🎊") }
+    if (msg.includes("yes!!")) { emoji.push("🎉") }
     if (msg.includes("party")) { emoji.push("🎉") }
     if (msg.includes("party")) { emoji.push("🎊") }
     if (msg.includes("party")) { emoji.push("🎈") }
@@ -484,6 +498,7 @@ module.exports = {
     if (msg.includes("ball")) { emoji.push("🏀") }
     if (msg.includes("volley")) { emoji.push("🏐") }
     if (msg.includes("tennis")) { emoji.push("🎾") }
+    if (msg.includes("racket")) { emoji.push("🏸") }
     if (msg.includes("fetch")) { emoji.push("🎾") }
     if (msg.includes("bowling")) { emoji.push("🎳") }
     if (msg.includes("strike")) { emoji.push("🎳") }
@@ -509,9 +524,26 @@ module.exports = {
     if (msg.includes("skat")) { emoji.push("⛸") }
     if (msg.includes("sled")) { emoji.push("🛷") }
     if (msg.includes("sleigh")) { emoji.push("🛷") }
+    if (msg.includes("sleigh")) { emoji.push("🦌") }
+    if (msg.includes("slay")) { emoji.push("🛷") }
+    if (msg.includes("slay")) { emoji.push("🦌") }
     if (msg.includes("curl")) { emoji.push("🥌") }
 
     // Misc
+    if ((msg.includes("bag")) && (!(msg.includes("bags")))) { emoji.push("👜") }
+    if ((msg.includes("bags")) && (!(msg.includes("bookbag")))) { emoji.push("🛍") }
+    if (msg.includes("backpack")) { emoji.push("🎒") }
+    if (msg.includes("bookbag")) { emoji.push("🎒") }
+    if (msg.includes("purse")) { emoji.push("👜") }
+    if (msg.includes("pocket")) { emoji.push("👜") }
+    if (msg.includes("glov")) { emoji.push("🧤") }
+    if (msg.includes("sock")) { emoji.push("🧦") }
+    if (msg.includes("dress")) { emoji.push("👗") }
+    if (msg.includes("coat")) { emoji.push("🧥") }
+    if (msg.includes("scar")) { emoji.push("🧣") }
+    if (msg.includes("pant")) { emoji.push("👖") }
+    if (msg.includes("shirt")) { emoji.push("👕") }
+    if (msg.includes("tie")) { emoji.push("👔") }
     if (msg.includes("case")) { emoji.push("💼") }
     if (msg.includes("target")) { emoji.push("🎯") }
     if (msg.includes("bullseye")) { emoji.push("🎯") }
@@ -584,7 +616,7 @@ module.exports = {
     if (msg.includes("chopst")) { emoji.push("🥢") }
     if (msg.includes("knif")) { emoji.push("🔪") }
     if (msg.includes("kniv")) { emoji.push("🔪") }
-    if (msg.includes("ace")) { emoji.push("♠") }
+    if ((msg.includes("ace")) && (!(msg.includes("space")))) { emoji.push("♠") }
     if (msg.includes("spade")) { emoji.push("♠") }
     if (msg.includes("heart")) { emoji.push("♥") }
     if (msg.includes("diamond")) { emoji.push("♦") }
@@ -610,7 +642,8 @@ module.exports = {
     if (msg.includes("sleep")) { emoji.push("💤") }
     if (msg.includes("zzz")) { emoji.push("💤") }
     if (msg.includes("thought")) { emoji.push("💭") }
-    if (msg.includes("think")) { emoji.push("💭") }
+    if (msg.includes("think")) { emoji.push("🧠") }
+    if (msg.includes("tooth")) { emoji.push("🧠") }
     if (msg.includes("writ")) { emoji.push("✍") }
     if (msg.includes("brain")) { emoji.push("🧠") }
     if (msg.includes("knows")) { emoji.push("👃") }
@@ -630,10 +663,6 @@ module.exports = {
     if (msg.includes("gem")) { emoji.push("💎") }
     if (msg.includes("ruby")) { emoji.push("💎") }
     if (msg.includes("boot")) { emoji.push("👢") }
-    if (msg.includes("boot")) { emoji.push("👢") }
-    if (msg.includes("backpack")) { emoji.push("🎒") }
-    if (msg.includes("purse")) { emoji.push("👜") }
-    if (msg.includes("pocketbook")) { emoji.push("👜") }
     if (msg.includes("shop")) { emoji.push("🛍") }
     if (msg.includes("shoe")) { emoji.push("👟") }
     if (msg.includes("heel")) { emoji.push("👠") }
@@ -681,82 +710,8 @@ module.exports = {
     if (msg.includes("cello")) { emoji.push("🎻") }
     if (msg.includes("fiddl")) { emoji.push("🎻") }
     if (msg.includes("drum")) { emoji.push("🥁") }
-    if (msg.includes("drum")) { emoji.push("🥁") }
 
-    if (msg.includes("meow")) { emoji.push(this.randomCatEmoji()) }
-    if (msg.includes("chat")) { emoji.push(this.randomCatEmoji()) }
-    if (msg.includes("mew")) { emoji.push(this.randomCatEmoji()) }
-    if ((msg.includes("cat")) && (!(msg.includes("catbot")))) { emoji.push(this.randomCatEmoji()) }
-    if ((msg.includes("meow")) || (msg.includes("kitt"))) { emoji.push(this.randomCatEmoji()) }
-    console.log(emoji)
     return emoji
-  },
-
-  // *********************
-  // * Support functions
-  // *********************
-
-  randomFishEmoji: function() {
-
-    var fishReaction = []
-    fishReaction[0] = "🐟"
-    fishReaction[1] = "🐟"
-    fishReaction[2] = "🐟"
-    fishReaction[3] = "🐟"
-    fishReaction[4] = "🐟"
-    fishReaction[5] = "🐠"
-    fishReaction[6] = "🐡"
-    fishReaction[7] = "🎣"
-    fishReaction[8] = "🎣"
-    fishReaction[9] = "🎣"
-
-    var randomReaction = Math.floor(Math.random() * fishReaction.length)
-    return fishReaction[randomReaction]
-  },
-
-  randomCatEmoji: function() {
-
-    var catReaction = []
-    catReaction[0] = "😺"
-    catReaction[1] = "😸"
-    catReaction[2] = "😹"
-    catReaction[3] = "😻"
-    catReaction[4] = "😼"
-    catReaction[5] = "😽"
-    catReaction[6] = "🙀"
-    catReaction[7] = "😿"
-    catReaction[8] = "😾"
-    catReaction[9] = "🐱"
-    catReaction[10] = "🐈"
-    catReaction[11] = "🦁"
-    catReaction[12] = "🐯"
-    catReaction[13] = "🐅"
-    catReaction[14] = "🐆"
-
-    var randomReaction = Math.floor(Math.random() * catReaction.length)
-    return catReaction[randomReaction]
-  },
-
-  randomTreatEmoji: function() {
-
-    var treatReaction = []
-    treatReaction[0] = "🐟"
-    treatReaction[1] = "🍦"
-    treatReaction[2] = "🍧"
-    treatReaction[3] = "🍨"
-    treatReaction[4] = "🍩"
-    treatReaction[5] = "🍪"
-    treatReaction[6] = "🍰"
-    treatReaction[7] = "🍫"
-    treatReaction[8] = "🍬"
-    treatReaction[9] = "🍭"
-    treatReaction[10] = "🍮"
-    treatReaction[11] = "🍍"
-    treatReaction[12] = "🐁"
-    treatReaction[13] = "🍡"
-
-    var randomReaction = Math.floor(Math.random() * treatReaction.length)
-    return treatReaction[randomReaction]
-  },
+  }
 
 }
