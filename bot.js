@@ -1,14 +1,15 @@
 // bot.js
 var bot = function () {};
 
-const Discord = require('discord.js')
-const client = new Discord.Client()
+const discord = require('discord.js')
+const client = new discord.Client()
 
 // When it says secret, it really kind of means secret...
 // so let's put it right at the top of this file here
 const bot_secret = require('./bot-secret')
 
 var bot_name
+var bot_greeting
 var bot_rating
 var bot_reply
 var bot_keywords
@@ -80,7 +81,7 @@ bot.prototype.odds = function(percent) {
   logger.info("@" + bot.bot_name + ": Odds set to " + bot.odds.replace(".","") + "%")
 }
 
-bot.prototype.reply = function(channel, input) {
+bot.prototype.reply = function(channel, input = "") {
   var retString = bot.bot_reply
 
   if (!(input)) {
@@ -93,21 +94,23 @@ bot.prototype.reply = function(channel, input) {
     var roll = Math.random()
     if (roll < bot.odds) {
       var nowPlaying = []
-      var filePlaying = "./" + conf_dir + "/reply.txt"
+      var fileReplies = "./" + conf_dir + "/reply.txt"
       var retString
 
-      var nowPlaying = fs.readFileSync(filePlaying).toString().split("\n");
-      var randomPlaying = Math.floor(Math.random() * nowPlaying.length)
+      var replies = fs.readFileSync(fileReplies).toString().split("\n");
+      var randomReply = Math.floor(Math.random() * replies.length)
 
-      for (i in nowPlaying) {
+      for (i in replies) {
         //console.log(nowPlaying[i]);
-        if (i == randomPlaying) {
-          retString = nowPlaying[randomPlaying]
+        if (i == randomReply) {
+          retString = replies[randomReply]
         }
       }
 
       if (!(retString)) { retString = "Error" }
     }
+  } else {
+    // process input
   }
 
   var emuChan = channel
