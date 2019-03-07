@@ -57,6 +57,19 @@ client.on('message', (receivedMessage) => {
 		receivedMessage.react("🐤")
 	}
 
+	// React to all messages and log each reaction
+	var emuEmoji = emuji.react(receivedMessage.content)
+	console.log(emuEmoji)
+
+	if (emuEmoji) {
+		for (var i = 0; i < emuEmoji.length; i++) {
+			console.log(i)
+			emu.log(receivedMessage.channel + msg)
+			emu.log("@emuji reacted with " + emuEmoji[i])
+			receivedMessage.react(emuEmoji[i])
+		}
+	}
+	
   // Check if the bot's user was tagged in the message
   // Always reply to messages from any channel
   if (receivedMessage.isMentioned(client.user)) {
@@ -134,18 +147,7 @@ client.on('message', (receivedMessage) => {
     }
   } else {
 
-	  // React to all messages and log each reaction
-	  var emuEmoji = emuji.react(receivedMessage.content)
-		console.log(emuEmoji)
 
-	  if (emuEmoji) {
-	    for (var i = 0; i < emuEmoji.length; i++) {
-				console.log(i)
-				emu.log(receivedMessage.channel + msg)
-				emu.log("@emuji reacted with " + emuEmoji[i])
-				receivedMessage.react(emuEmoji[i])
-	    }
-	  }
 	}
 })
 
