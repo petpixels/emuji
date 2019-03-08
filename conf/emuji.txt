@@ -45,7 +45,7 @@
 🦇	bat
 🐻	bear,bare,winnie
 🐨	koala,australia,oz
-🐼	panda,china
+🐼	panda,china,mao
 🐾	track,paws,pause,prints
 🦃	turk
 🐔	chick
@@ -222,7 +222,7 @@
 ⛰	hill,sierra,appalach
 🌋	volcano,vulcan,erupt,lava,magma,molten
 🗻	fuji,japan
-🏕	tent,camp,intense
+🏕	camp,intense
 🏜	desert
 🏝	island,tropical
 🏞	park,national park
@@ -255,7 +255,7 @@
 ⛩	shinto,shrine
 🕋	mecca,qibba,kaaba,qiblih
 ⛲	fountain
-⛺	tent,camp,intense
+⛺	tent,intense
 🌁	fog,sf,francisco,golden gate
 🏙	city
 🌄	dawn,sunrise,sun up
