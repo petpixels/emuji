@@ -7,7 +7,7 @@
 🐩	pood,boug,wealthy,millionaire,groomed
 🐺	wolf,howl,full moon
 🦊	fox,facts,fax
-🐱	meow,kitt,puss
+🐱	kitt,puss
 🐈	cat
 🦁	lion,leo
 🐯	tigger,tony,hobbes,grrreat
@@ -20,7 +20,7 @@
 🦌	deer,elk,moose,sleigh,slay,bambi
 🐮	moo,beef,steak
 🐂	bull,parab,"ox",oxen,bs
-🐃	buffalo,bufalo,bufallo,"water buffalo","musk ox",oxen,bison,parab,buff
+🐃	buffalo,bufalo,bufallo,"water buffalo","musk ox",oxen,bison,parab,buff,yip
 🐄	cow,herd,pasture,barn,pattie,patty,burger,cattle
 🐷	pork,piglet
 🐖	hog,swine,"pig"
@@ -51,7 +51,7 @@
 🐔	chick
 🐓	cock,rooster
 🐣	chick,hatch,shell
-🐥	duckling,gosling
+🐥	duckling,gosling,peep
 🐦	bird,word,emoji
 🐧	peng,emperor,auk
 🕊	dove,peace
@@ -61,7 +61,7 @@
 🐸	frog,amphib
 🐊	croc,gator
 🐢	turtl,tortoise,moses,slow
-🦎	liz
+🦎	lizard
 🐍	snake,snek,rattle,slither,parsel,viper,mamba
 🐲	drago,draco
 🐉	draca,falcor,smaug,toothless
@@ -80,7 +80,7 @@
 🦋	butterfly,moth,monarch,mariposa
 🐛	worm,caterpill,cocoon,coccoon,parasit
 🐜	ant,aunt
-🐝	bee,hive,honey,swarm,killer,sting
+🐝	hive,honey,swarm,killer,sting,"bee"
 🐞	bug,lady
 🦗	grasshopper,cricut,locust
 🕷	spider,black widow,arach
@@ -216,7 +216,7 @@
 🌎	earth1
 🌏	earth2
 🌐	glob
-🗺	map
+🗺	map,plan
 🗾	japan
 🏔	mountain,rocky,mtn,mt.
 ⛰	hill,sierra,appalach
@@ -336,9 +336,9 @@
 ⏳	time,!timer
 ⌚	watch
 ⏰	alarm
-⏱	stopwatch
-⏲	timer
-🕰	clock
+⏱	stopwatch,second
+⏲	timer,minute
+🕰	clock,"hour"
 🌜	moon
 🌝	solar
 🌡	temp,celc,centigrade,fahrenh,farenh,thermo
@@ -583,7 +583,7 @@
 💉	vacc,needle,inject,vaxx
 💊	pill,capsule,tablet,medicine,pharma
 🚪	door,shut
-🛏	bed,sleep,dream,!embed
+🛏	sleep,dream,"bed"
 🛋	couch,sofa,lamp
 🚽	toilet,commode,bathroom,flush,crapper,shitter
 🛁	bath,tub
