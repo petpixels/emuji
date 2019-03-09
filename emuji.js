@@ -29,7 +29,7 @@ client.on('ready', () => {
 
   emu.name("Emu")
 	emu.default_reply("...")
-  emu.keywords("emu")
+  emu.keywords("emu ostrich cassowary bird")
   emu.rating("G")
 
 	emuji.load_dictionary()
