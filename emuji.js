@@ -69,7 +69,7 @@ client.on('message', (receivedMessage) => {
 			receivedMessage.react(emuEmoji[i])
 		}
 	}
-	
+
   // Check if the bot's user was tagged in the message
   // Always reply to messages from any channel
   if (receivedMessage.isMentioned(client.user)) {
