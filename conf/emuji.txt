@@ -1,7 +1,7 @@
 🐤	emu,emoji
 🤖	bot,robot,"ml",machine
 🐒	monkey,baboon,chimp,mandrill,rhesus,resus,reeces,macaq,"my cock"
-🦍	gorill,silverback
+🦍	gorill,silverback,kong
 🐶	puppy,yap,pupp
 🐕	dog,bark,woof
 🐩	pood,boug,wealthy,millionaire,groomed
@@ -17,10 +17,10 @@
 🐎	racehorse
 🦄	unicorn,horn
 🦓	zebra,stripe
-🦌	deer,elk,moose,sleigh,slay,bambi
+🦌	deer,elk,"moose",sleigh,slay,bambi
 🐮	moo,beef,steak
 🐂	bull,parab,"ox",oxen,bs
-🐃	buffalo,bufalo,bufallo,"water buffalo","musk ox",oxen,bison,parab,buff,yip
+🐃	buffalo,bufalo,bufallo,"water buffalo","musk ox",oxen,bison,parab,buff,yip,yak
 🐄	cow,herd,pasture,barn,pattie,patty,burger,cattle
 🐷	pork,piglet
 🐖	hog,swine,"pig"
@@ -32,11 +32,11 @@
 🐫	bactrian,"two hump",camel
 🐪	dromedary,dromedery,hump
 🦒	giraf,girraf,geraf,neck,long horse
-🐘	eleph,elegant,elegent,forget
+🐘	elephan,elegant,forget
 🦏	rhino,rino
 🐭	mickey,jerry,mighty,danger,the brain,mini,minnie
 🐁	mouse,mice,pinkie,pinky
-🐀	"rat",rats
+🐀	"rat",rats,vermin
 🐹	hamster,hampster,hamper,hamtaro
 🐰	bun,roger,thumper,harvey
 🐇	rabbit,rabit,"hop",easter,hopped,hopping
@@ -44,20 +44,20 @@
 🦔	hedge,sonic
 🦇	bat
 🐻	bear,bare,winnie
-🐨	koala,australia,oz
+🐨	koala,australia,oz,sydney,melbourn,nsw,new south wales,perth
 🐼	panda,china,mao
 🐾	track,paws,pause,prints
 🦃	turk
 🐔	chick
-🐓	cock,rooster
+🐓	cock,rooster,chicken
 🐣	chick,hatch,shell
 🐥	duckling,gosling,peep
-🐦	bird,word,emoji
+🐦	bird,word
 🐧	peng,emperor,auk
 🕊	dove,peace
 🦅	eagle,america,usa,merica,mercia,murica,murcia
 🦆	duck,fuck,fuk,"af",mallard,malliard,mallaird,bill
-🦉	owl,raptor,!veloc
+🦉	owl,wisdom,wise,raptor,!veloc
 🐸	frog,amphib
 🐊	croc,gator
 🐢	turtl,tortoise,moses,slow
@@ -68,7 +68,7 @@
 🦕	bronto,loch,nessie,monster
 🦖	dino,rex,tyran,fossil
 🐳	whale,blowhole,spout
-🐋	beluga,moby
+🐋	beluga,moby,ishmael
 🐬	dolph,flipp
 🐟	fish,pescat,poisson,pisces
 🐠	tropical,flounder
@@ -79,19 +79,19 @@
 🐌	snail,slug,gary
 🦋	butterfly,moth,monarch,mariposa
 🐛	worm,caterpill,cocoon,coccoon,parasit
-🐜	ant,aunt
+🐜	ants,aunt,bugs,bugz,antz,anthill,fire ant,"ant",carpenter
 🐝	hive,honey,swarm,killer,sting,"bee"
 🐞	bug,lady
 🦗	grasshopper,cricut,locust
 🕷	spider,black widow,arach
 🕸	web,www,internet
 🦂	scorp
-💐	flowers,bouq,bucket
+💐	flowers,bouq,bucket,memorial,memorium,memory,remembrance
 🌸	blossom,"flower"
 💮	flowers
 🏵	flowers
 🌹	rose,kissed,seal
-🥀	petal,wilt,dead
+🥀	petal,wilt
 🌺	hibiscus
 🌻	sun,!flower
 🌼	daisy,daisies
@@ -201,7 +201,7 @@
 🍷	wine
 🍸	martini,cocktail,shaken,stirred,dirty
 🍹	pinacolada,piña colada,piñacolada,mai tai
-🍺	beer
+🍺	beer,drunk,"pint",guiness,guinness,"keg","six pack"
 🍻	cheers
 🥂	toast
 🥃	whiskey,bourbon
@@ -217,7 +217,7 @@
 🌏	earth2
 🌐	glob
 🗺	map,plan
-🗾	japan
+🗾	japan,country
 🏔	mountain,rocky,mtn,mt.
 ⛰	hill,sierra,appalach
 🌋	volcano,vulcan,erupt,lava,magma,molten
@@ -257,10 +257,10 @@
 ⛲	fountain
 ⛺	tent,intense
 🌁	fog,sf,francisco,golden gate
-🏙	city
-🌄	dawn,sunrise,sun up
-🌅	noon,daytime
-🌆	dusk
+🏙	city,village,town
+🌄	dawn,sunrise,sun up,morning
+🌅	noon,daytime,afternoon
+🌆	dusk,evening
 🌇	sunset,sundown,sun down
 🌉	bridge
 ♨	heat
@@ -287,17 +287,17 @@
 🚐	minibus,microbus
 🚑	waa,burn,ambulance,medic,911,emergency
 🚒	fire,burn,911
-🚔	fuzz,"cops",po po,popo,5-0,five-o,187,woop,the man,swat,busted,arrest,911
-🚓	police,cop,swat,wanted,arrest,911
-🚕	uber,lift,"cab"
+🚔	fuzz,"cops",po po,popo,5-0,five-o,187,woop,the man,swat,busted,arrest,911,"dwi","dui"
+🚓	police,cop,swat,wanted,arrest,911,"dwi","dui"
+🚕	uber,lyft,"cab"
 🚖	taxi
-🚗	car
+🚗	drive,driving, car,auto,mobile
 🚘	crash
-🚙	SUV,jeep
+🚙	SUV,jeep,vehicl,vehicular,"dwi","dui"
 🚚	truck
 🚛	shipping,deliver,load
 🚜	tractor
-🏎	race,f1,mobile
+🏎	race,f1,racing
 🏍	motorcycl,chopper
 🛵	vespa,moped
 🚲	bike,bicycl,armstrong,tour de,biking
@@ -307,7 +307,7 @@
 🛤	railroad,track
 🛢	oil,fossil
 ⛽	gas,fuel
-🚨	arrest,911
+🚨	arrest,911,"dwi","dui"
 🚥	Unsupported
 🚦	traffic
 🛑	stop
@@ -331,7 +331,7 @@
 🚡	aerial
 🛰	satel
 🚀	rocket,space
-🛎	bell
+🛎	ring
 ⌛	hourglass
 ⏳	time,!timer
 ⌚	watch
@@ -339,10 +339,10 @@
 ⏱	stopwatch,second
 ⏲	timer,minute
 🕰	clock,"hour"
-🌜	moon
+🌜	moon,night,late
 🌝	solar
 🌡	temp,celc,centigrade,fahrenh,farenh,thermo
-⭐	star
+⭐	star,legendary,legendery
 🌖	luna
 🌞	sunny
 🌟	shining,shine
@@ -351,7 +351,7 @@
 ☁	cloud,datacenter
 🌥	cloudy
 ⛈	storm
-🌤	sunshine
+🌤	sunny
 🌧	rain
 🌨	snowing
 🌩	thunder
@@ -365,19 +365,19 @@
 ☔	drops
 ⛱	beach
 ⚡	electric,lightening,lightning
-❄	snowflake,"snow","snows"
+❄	snowflake,"snow","snows","ice"
 ⛄	snowman,frosty,frostie
 ☄	comet,meteor,shooting star
 🔥	fire,burn,match,flam
-💧	droplet,water
-🌊	waves
+💧	droplet,water,tears,crying,cried,"cry"
+🌊	waves,"sea","seas"
 🎃	pumpkin,halow,hallow,jack
 🎄	christmas,xmas,tannenbaum
 🎆	firework
 🎇	explo,"spark",boom
 ✨	sparkle,shiny
 🎈	ballo,balo,luft,party
-🎉	fun,yay,yes,party
+🎉	yay,yes,party,"fun"
 🎊	party,yay!,yes!
 🎋	bamboo
 🎍	bonsai
@@ -414,7 +414,7 @@
 ⛸	skat
 🛷	sled,sleigh,slay
 🥌	curling
-💅	difficult,hard,challeng
+💅	fingernail,difficult,hard,challeng,nailpolish,whew
 🎯	target,bullseye
 🎱	pool,billiard,eight,"8"
 🔮	crystal
@@ -430,9 +430,9 @@
 🀄	mahjong
 🎭	drama,thesbian
 🖼	painting,pic
-🎨	paint
+🎨	paint,artist
 👓	nerd,glasses,smert,seee,intell
-🕶	cool,sunglass
+🕶	sunglass,deal with it
 👔	necktie,tie
 👕	shirt
 👖	pants,jeans
@@ -472,9 +472,9 @@
 📯	flugelhorn,french horn
 🔔	bell
 🎼	music
-🎵	sing
+🎵	"sing",eighth
 💃	dance
-🕺	disco,boog,fever
+🕺	disco,boog,fever,singer
 🎶	song
 🎚	volume
 🎛	knob
@@ -506,7 +506,7 @@
 🎞	film
 📽	project
 🎬	video,"cut",direct
-📺	tv,telev,youtube
+📺	tv,telev,youtube,channel
 📷	camera,nikon,canon
 📸	pic
 📹	camcorder
@@ -514,12 +514,16 @@
 🔍	search
 🔎	find,found
 🕯	candle
-💡	idea,bulb,think
+💡	idea,bulb,think,bright,lightbulb,light
 🔦	flash
 🏮	lantern
 📖	book,!books,!bookmark
+📘	dictionary
+📗	thesaurus
 📓	note,composition
-📚	books
+📚	books,library
+📒	spiral
+📃	document
 📜	scroll
 📄	page
 📰	paper
@@ -533,7 +537,7 @@
 💷	pound,sterling
 💸	investment
 💳	credit
-💲	dollar,$
+💲	dollar,$,cents,sense
 ✉	envelop
 📧	email
 📦	pack,box
@@ -546,7 +550,7 @@
 ✍	writ
 🖌	brush
 🖍	crayon
-📝	memo
+📝	memorandum,"memo"
 📂	folder
 📆	tomorrow,yesterday,back in the day
 📅	today,date
@@ -564,17 +568,17 @@
 🔓	unlock,insecure
 🗝	key,!turkey
 🔨	hammer,nail
-⛏	pick
+⛏	pick,"dig",digging,excavat,arhcae
 🗡	sword,dagg,pointy
 ⚔	swords,!sword,sword fight,swordfight,swashbuckle
 🔫	gun,shoot,bullet,bang,trigger
-🏹	bow,arrow,cupid
+🏹	arrow,"bow"
 🛡	shield,sheild,armor
 🔧	wrench,fix,work
-🔩	nut,bolt,!nuts
+🔩	bolt,madness,"nut"
 ⚙	gear,cog,sprocket
 🗜	clamp
-⚖	scale,balance,libra
+⚖	scale,balance,libra,tipped,weight
 🔗	link
 ⛓	chain
 🔬	micro
@@ -612,7 +616,7 @@
 🔛	"turn on"
 🔜	soon
 🔝	"top"
-🔅	bright
+🔅	solar
 ⚕	medical
 ♻	recycl
 ⚜	fleur
@@ -635,17 +639,17 @@
 ™	trademark,"tm",(tm)
 #️⃣	#,hashtag
 *️⃣	*,asteri
-0️⃣	0,zero
-1️⃣	1,one
-2️⃣	2,two
-3️⃣	3,three
-4️⃣	4,four
-5️⃣	5,five
-6️⃣	6,six
-7️⃣	7,seven
-8️⃣	8,eight
-9️⃣	9,nine
-🔟	10,ten
+0️⃣	zero,nothing
+1️⃣	one,first
+2️⃣	two,second
+3️⃣	three,third
+4️⃣	four,forth
+5️⃣	five,fifth
+6️⃣	six
+7️⃣	seven
+8️⃣	eight
+9️⃣	nine
+🔟	ten
 🆒	cool
 🆓	free
 ℹ	info
@@ -660,11 +664,10 @@
 🚩	pennant,pennent
 🏳	surrender,white flag,drapeau blanc
 🧘	yoga
-💩	poo,shit,crap,turd,bs
 🤠	cowboy,texas,houston,dallas,austin,west
-😈	devil,satan
+😈	devilish,naughty,"bad"
 💀	skull,yorrick,yorick
-☠	dead,crossbones,jolly,roger,rodger
+☠	dead,crossbones,jolly,roger,rodger,pirat,pirac,yarr,torrent
 👾	invade
 💔	broken
 👻	ghost,spirit,haunt,soul
@@ -676,3 +679,287 @@
 👃	nose,smell,knows
 👅	taste,tongue,lick
 👄	mouth,lips
+😀	grin,happy,good
+😄	smil,funny
+😆	haha,hilarious,humor
+😁	beaming,:-D
+😅	nervous,sweat,nerves
+😂	lol,laugh
+🤣	rofl,lmao
+🙂	smile,:),:-)
+🙃	upside
+😉	wink
+😁	grin
+😊	blush,shy
+😇	halo,innocent,naive,angel,heaven
+😍	hearteyes,love,hearts,great,awesome,fantastic,wonderful,beautiful
+🤩	starstruck,starry
+😘	kiss
+😛	lick,tongue
+😜	jank
+🤪	crazy,nutty,insane,insanity
+😝	squint
+🤑	cash,money,dollar
+🤗	jazz
+🤫	shush,shh
+🤔	hmm,hrm,umm,dunno
+🤐	quiet,zip
+🤨	eyebrow
+😐	meh,blah
+😶	...
+🙄	uh-oh,"uh oh"
+😬	grimac
+🤥	lying,pinocc
+😏	smirk,"heh"
+😒	unamused,annoyed,irrtated,aggravated,ugh,sigh
+😴	tired,sleepy,zzz
+🤤	drool
+😪	asleep
+😔	pensive
+😌	reliev,relief,releiv
+😷	sick,doctor,hospital
+🤒	thermometer,fever
+🤕	bandage,patch,injur,headache
+🤢	nausea,nauseo,illness,"ill",the flu,a cold
+🤮	vomit,throwup,puke,hurl
+🤧	sneeze,bless you,gesundheit,achoo
+😵	dizzy,dead
+🤯	mindblow,explode,nuclear
+🧐	monocle,smart,guess,gotcha,huh
+🤓	nerdy,dork,algebra,math,trigonomet,calculat,calculus,geometr,brainy
+😎	cool,badass,excellent,exelent,classy
+😕	confused
+😟	concern
+🙁	sad,unhappy
+☹	frown
+😲	astonish,argh,aaaah,aaaaah
+😳	oops,whoops
+😦	nooo
+😨	fear,terror,terrify,terrifie,scare,fright
+😰	anxious,anxiety,worry
+😖	damnit,dammit
+😱	scream,"eek"
+😖	puzzled,stumped
+😣	persever
+😞	dissapointed,"let down"
+😓	downcast
+😩	weary
+😤	angry,"mad",upset,pssh,psh
+😡	pouting,pouty,"pout"
+😠	angryface
+🤬	cussing,cussed,swearing,cursing,bad words
+💩	poo,shit,crap,turd,bs
+🤡	clown,bozo,bezos,krusty,pennywise
+👹	mask
+👺	satan,devil,goblin,demon
+🙈	blind,"see"
+🙉	deaf,"hear"
+🙊	speak,"say",said
+💌	valentine,love letter
+💘	cupid
+💓	vibes,vibrat
+💗	loving
+💥	spark,bang
+🇦🇩	andorra
+🇦🇪	uae,emirates
+🇦🇫	afghan
+🇦🇬	antigua,barbuda
+🇦🇮	anguilla,anguila
+🇦🇱	albania
+🇦🇲	armenia
+🇦🇴	angola
+🇦🇶	antarctica,anartica,antartica
+🇦🇷	argentina
+🇦🇸	american samoa
+🇦🇹	austria,australia
+🇦🇺	australia,austria,down under
+🇦🇼	aruba
+🇦🇿	azerbaijan
+🇧🇦	bosnia,herzegov
+🇧🇧	barbados
+🇧🇩	bangladesh
+🇧🇪	belg
+🇧🇫	burkina,faso
+🇧🇬	bulgaria
+🇧🇭	bahrain
+🇧🇮	burundi
+🇧🇯	benin
+🇧🇲	bermuda
+🇧🇳	brunei
+🇧🇴	bolivia
+🇧🇷	brazil
+🇧🇸	bahama
+🇧🇹	bhutan
+🇧🇼	botswana,"bots"
+🇧🇾	belarus
+🇧🇿	beliz
+🇨🇦	canada,canadia
+🇨🇬	congo
+🇨🇭	swizerland,swiss
+🇨🇮	ivory coast
+🇨🇰	cook island
+🇨🇱	chile
+🇨🇲	cameroon,camaroon
+🇨🇳	china,chinese
+🇨🇴	colombia
+🇨🇷	costa rica,costarica,costa rican,costa rico
+🇨🇺	cuba
+🇨🇼	curacao,curaçao
+🇩🇪	german,deutsch
+🇩🇯	djibouti,djbouti,booty
+🇩🇰	denmark,dane,danish
+🇩🇲	"dominica"
+🇩🇴	dominican
+🇩🇿	algeria
+🇪🇨	ecuador
+🇪🇪	estonia
+🇪🇬	egypt,cairo,alexandria,giza
+🇪🇬	eritrea
+🇪🇸	spain
+🇪🇹	ethiopia
+🇪🇺	europ,"e.u","eu",eurozone
+🇫🇮	finland,finn,finish
+🇫🇯	fiji
+🇫🇰	falkland
+🇫🇲	micronesia
+🇫🇴	faroe
+🇫🇷	france,paris,marseille,eiffel,lyon,bordeaux,toulous
+🇬🇦	gabon
+🇬🇧	england,british,brittain,brittish,"u.k",uk,united kingdom,london,english,manchester,liverpool,cambridge,newcastle,oxford
+🇬🇩	grenada
+🇬🇪	georgia
+🇬🇫	guiana
+🇬🇭	ghana,gonorr
+🇬🇮	gibralt
+🇬🇱	greenland
+🇬🇲	gambia
+🇬🇳	guinea
+🇬🇵	guadeloupe
+🇬🇶	equatorial
+🇬🇷	greece,grease
+🇬🇹	guatemala,guatamala
+🇬🇺	guam
+🇬🇾	guyana
+🇭🇰	hongkong,hong
+🇭🇳	honduras
+🇭🇷	croatia,croasia
+🇭🇹	haiti,hati
+🇭🇺	hungary,hungery,hungry
+🇮🇨	canary
+🇮🇩	indo
+🇮🇪	ireland
+🇮🇱	israel,haifa,jerusalem,akka,tel aviv
+🇮🇳	india
+🇮🇶	iraq
+🇮🇷	iran
+🇮🇸	iceland
+🇮🇹	italy,italia,roman,rome,venice,milan,naples
+🇯🇲	jamaica,jamaca
+🇯🇴	jordan
+🇯🇵	japan
+🇰🇪	kenya
+🇰🇬	kyrgyzstan
+🇰🇭	cambodia,pol pot,angkor
+🇰🇵	north korea,"n.k","nk","jong"
+🇰🇷	korea
+🇰🇼	kuwait
+🇰🇾	cayman
+🇰🇿	kazakhstan,kazakstan,kazakistan
+🇱🇦	laos
+🇱🇧	lebanon
+🇱🇮	liechtenstein
+🇱🇰	srilanka,sri lanka,tamil
+🇱🇷	liberia
+🇱🇹	lithuania
+🇱🇺	luxemb
+🇱🇻	latvia
+🇱🇾	libya
+🇲🇦	morocco,moroco,moroccan,morocan
+🇲🇨	monaco
+🇲🇩	moldova
+🇲🇪	montenegro
+🇲🇫	martin
+🇲🇬	madagascar
+🇲🇰	macedonia,macadonia
+🇲🇱	mali
+🇲🇲	myanmar,burma
+🇲🇳	mongolia
+🇲🇶	martinique
+🇲🇷	mauritania
+🇲🇸	montserrat,montserat
+🇲🇹	malta,maltese
+🇲🇺	mauritius
+🇲🇻	maldive
+🇲🇼	malawi
+🇲🇽	mexico,mexican,aztec,tijuana
+🇲🇾	malay,malasia,malaise
+🇲🇿	mozambique
+🇳🇦	namibia,nambia
+🇳🇪	niger
+🇳🇫	norfolk
+🇳🇬	nigeria
+🇳🇮	nicaragua
+🇳🇱	nether,holland,dutch,amsterdam,rotterdam
+🇳🇴	norway,norweg
+🇳🇵	nepal
+🇳🇿	zealand,kiwi,"nz"
+🇴🇲	oman,oh man
+🇵🇦	panama
+🇵🇪	peru
+🇵🇫	poly
+🇵🇬	papua
+🇵🇭	philippines,phillippines,Phillipines,filipin,filippin,fillipin,fillippin
+🇵🇰	pakistan
+🇵🇱	poland,polish
+🇵🇷	puerto,puertorico,puerta rica,puerto rica
+🇵🇹	portug
+🇵🇼	palau
+🇵🇾	paraguay
+🇶🇦	qatar
+🇷🇴	romania
+🇷🇸	serbia
+🇷🇺	russia,ruski,"putin",moscow
+🇷🇼	rwanda
+🇸🇦	saudi
+🇸🇨	seychelle,sea shell
+🇸🇪	swede
+🇸🇬	singapore
+🇸🇮	slovenia
+🇸🇰	slovakia
+🇸🇱	sierra leone,"leone"
+🇸🇳	senegal
+🇸🇴	somalia
+🇸🇷	surinam,surnam
+🇸🇸	sudan
+🇸🇻	salvador
+🇸🇾	syria
+🇹🇩	chad
+🇹🇬	togo
+🇹🇭	thai
+🇹🇯	tajikistan,tajikstan
+🇹🇰	tokelau
+🇹🇱	timor
+🇹🇲	turkmen
+🇹🇳	tunisia
+🇹🇴	tonga
+🇹🇷	turkey
+🇹🇹	trinidad,tobago
+🇹🇻	tuvalu
+🇹🇼	taiwan
+🇹🇿	tanzania
+🇺🇦	ukrain
+🇺🇬	uganda
+🇺🇲	america,united states,"usa","the us","u.s",america,usa,merica,mercia,murica,murcia
+🇺🇾	uruguay,you're a
+🇺🇿	uzbek
+🇻🇦	vatican
+🇻🇪	venez
+🇻🇳	viet
+🇼🇸	samoa
+🇽🇰	kosovo
+🇾🇪	yemen
+🇿🇦	south africa,"sa"
+🇿🇲	zambia
+🇿🇼	zimbabwe
+🏴󠁧󠁢󠁳󠁣󠁴󠁿	scotland
+🏴󠁧󠁢󠁷󠁬󠁳󠁿	wales,welsh
