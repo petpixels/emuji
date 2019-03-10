@@ -45,7 +45,7 @@
 🦇	bat
 🐻	bear,bare,winnie
 🐨	koala,australia,oz,sydney,melbourn,nsw,new south wales,perth
-🐼	panda,china,mao
+🐼	panda,china,wwf
 🐾	track,paws,pause,prints
 🦃	turk
 🐔	chick
@@ -124,7 +124,7 @@
 🥝	kiwi,zealand
 🍅	tomat
 🥥	coconut
-🥑	avocad,code,avocat,avacad,avacod
+🥑	avocad,code,avocat,avacad,avacod,millennial
 🍆	eggplant,dick,penis,!moby
 🥔	potato
 🥕	carrot,vegan,vegeta
@@ -150,7 +150,7 @@
 🍔	burger,big mac,whopper,quarter pound,cheezburger
 🍟	fries,mcdonald
 🌭	hotdog,sausage,saw such,weiner,wiener,frank
-🥪	sandwich,blt
+🥪	sandwich,blt,jelly,jam
 🌮	taco,quesa
 🌯	burrito,purrito
 🥙	pita,pain in the ass,falafel,hummus,gyro,shawarma,schwarma
@@ -251,7 +251,7 @@
 💒	wedding,marriage,marraige,married,engaged,fiance,chapel
 🗼	tower
 🗽	liberty,justice
-⛪	church,cathedral,basilica,basillica,parish,parrish,,iglesia,iglecia,omg
+⛪	church,cathedral,basilica,basillica,parish,parrish,iglesia,iglecia,omg
 🕌	mosq
 🕍	synagog,temple
 ⛩	shinto,shrine
@@ -302,7 +302,7 @@
 🏎	race,f1,racing
 🏍	motorcycl,chopper
 🛵	vespa,moped
-🚲	bike,bicycl,armstrong,tour de,biking
+🚲	bicycl
 🛴	scoot,razor
 🚏	busstop,bus stop
 🛣	road,highway,freeway
@@ -316,7 +316,7 @@
 🚧	construct
 ⚓	anchor
 ⛵	sail
-🛶	canoe,"row",rowing,"oar"
+🛶	canoe,paddl
 🚤	boat
 🛳	cruise,oceanliner
 ⛴	ferry
@@ -409,10 +409,10 @@
 🏓	ping,pong
 🥊	boxing,punch
 🥋	karate,dojo,sensei,senpai,blackbelt,black belt,kung fu,martial arts,marital arts
-⛳	golf,tee,invest,fore,"putt",green
+⛳	golf,invest,"putt",green
 🎣	fishing
 🎽	tanktop,athletic,activ
-🎿	ski
+🎿	skis
 ⛸	skat
 🛷	sled,sleigh,slay
 🥌	curling
@@ -432,7 +432,7 @@
 🀄	mahjong
 🎭	drama,thesbian
 🖼	painting,pic
-🎨	paint,artist
+🎨	paint,painter
 👓	nerd,glasses,smert,seee,intell
 🕶	sunglass,deal with it
 👔	necktie,tie
@@ -442,7 +442,7 @@
 🧤	glov,mitt
 🧥	coat,jacket
 🧦	sock
-👗	dress
+👗	dress,address
 👘	kimono
 👙	bikini,bathing suit
 👚	blouse
@@ -451,8 +451,8 @@
 👝	clutch
 🛍	bag,shop
 🎒	backpack
-👞	shoe
-👟	sneak
+👞	shoe,wingtip,loafer
+👟	sneak,running,tennis
 👠	heel,heal
 👡	sandal
 👢	boot
@@ -462,10 +462,10 @@
 🎓	graduat,universit,colleg,educat
 🧢	hat,cap,ballcap
 ⛑	helmet
-📿	beads
+📿	beads,necklace,jewelry,jewelery,rosary
 💄	lipstick
-💍	ring,engagement,fiance
-💎	gem,diamond,ruby,!diamonds
+💍	ring,engage,engaged,engagement,fiance
+💎	gem,diamond,ruby
 💼	case
 🔇	mute
 🔈	speaker,sound,loud,audio
@@ -475,8 +475,23 @@
 🔔	bell
 🎼	music
 🎵	"sing",eighth
-💃	dance
+💃	dance,dancing
 🕺	disco,boog,fever,singer
+🧖	steamy,sauna
+🧗	climb
+🤺	fence,fencing,garde,touche,touché
+⛷	skiing,skier,ski
+🏂	snowboard
+🏌	fore,"tee"
+🏄	surf
+🚣	row,rowing,rowboat,oar
+🏊	swim
+⛹	dribble,play
+🏋	lift
+🚴	bike,biking,biker,armstrong,tour de
+🤸	cartwheel,gymnast
+🤼	wrestle,wrassle,wwe
+🤹	juggle,juggling
 🕴	spy,spies,stranger,cia,nsa,kgb,fbi,fsb,spooks,mi5,mossad,mi6
 🎶	song
 🎚	volume
@@ -548,7 +563,7 @@
 📮	mail,male,post,!email
 📫	redflag,red flag
 🗳	ballot,vote,voting
-✏	draw,edit
+✏	draw,write,fountain pen,nib,ink
 ✒	wrote
 🖋	"pen"
 ✍	writ
@@ -605,7 +620,7 @@
 🏧	atm
 🚮	litter,dump
 ♿	mobility,disabil,disabl,wheelchair
-🚼	child
+🚼	diaper
 🛂	papers,passport,citizen
 🛃	search,security,checkpoint
 🛄	baggage,luggage,suitcase,carry on,carry-on,carryon
@@ -638,7 +653,7 @@
 ♑	capricorn
 ♒	aquarius
 ♓	pisces
-⚛	scien,atom,nuclear,quantum,physics,atomic,science,scientific,scientist
+⚛	scien,atom,nuclear,quantum,physics,atomic,science,scientific
 ☯	yin,yang,yinyang,yingyang,ying yang,balance,harmony,equal,"chi",qigong,ching,tao,dao
 ✝	christ,jesus,nazareth,cross,crucifix
 ☦	orthodox
@@ -660,7 +675,7 @@
 📶	bars,antenna,antena,signal,wifi,network
 📳	silent,vibrat
 📴	turn off,cut off,switch off,off switch
-⚕	medical,doctor,surgery,surgeon
+⚕	medical,surgery,surgeon
 ♻	recycl,compost,green,ecolo
 ⚜	fleur
 🔱	trident
@@ -673,11 +688,11 @@
 ➖	minus
 ✖	multipl,times
 ➗	divide,divis
-➰	delete
+➰	delete,edit
 〽	stock,market,nyse,nasdaq,nikkei,s&p,wallstreet,financ,accounting,bookkeep
 ❇	jack
 ✳	asteris,*
-✴
+✴	fancy
 ⁉	?!,!?
 ‼	!!
 ❓	??
@@ -712,7 +727,7 @@
 Ⓜ	metro
 🆕	new
 🆗	ok
-🆖	ng
+🆖	"ng"
 🅿	parking
 🆘	sos,s.o.s,help
 🆙	"up!"
@@ -722,7 +737,7 @@
 🏳	surrender,white flag,drapeau blanc
 🏴	black flag
 🏳️‍🌈	flag
-🧘	yoga
+🧘	yoga,meditat,relax,zen,buddh,tranquil,calm,sit
 🤠	cowboy,texas,houston,dallas,austin,west
 😈	devilish,naughty,"bad"
 💀	skull,yorrick,yorick,died
@@ -733,11 +748,99 @@
 💯	hundred,100
 💣	bomb
 💤	zzz,sleep
+👋	wave,waving,hey,hello,howdy
+🤚	five
+🖐	palm
+✋	hand
+🖖	spock,prosper,live long,trek,vulcan,logic
+👌	ok,got it,understood,yes,understand,get it,will do,"k"
+✌	peace
+🤞	crossed,fingers crossed,fingers
+🤟	ily,ilu
+🤘	metal,devil,headbang
+🤙	dude
+👈	left,zoop
+👉	right,zoop
+🖕	fuck
+👆	this
+☝	that
+👍	thumb,like
+👎	dislike,thumb
+✊	power,panther,solidarity,comrade,prole,revolut
+👏	applause,applaud,clapping,clap
+🙌	praise
+👐	hands
+🤲	palms,open,empty
+🤝	shake,deal,handshake
+🙏	pray,prayer,praying
+👊	fist
+🤜	punch
+🤳	self
+💪	strong,muscl,strength,tough,bully,macho
 💭	thought
-🧠	think,brain
+🧠	think,brain,brainy
 👃	nose,smell,knows
 👅	taste,tongue,lick
 👄	mouth,lips
+👶	toddl
+🧒	child
+🧑	person,people,human,mankind,nonbinary,non-binary
+👨	man,men
+👩	woman
+🧓	older,senior
+👵	grandma,grannie,granny,grandmother,older,maw,mama,senior
+👴	grandpa,grandad,gran,grandfather,pawpaw,papa,geriatric
+🙍	serious
+🙎	pout,pouting,pouty
+🙆	ymca
+🙋	raise
+🙇	bowing
+🤦	facepalm
+🤷	shrug,dunno,confused
+👨‍⚕️	nurse
+👩‍⚕️	doctor
+👨‍🎓	student
+👨‍🏫	teacher,profess
+👩‍⚖️	judge,judicia
+👨‍🌾	farmer,agriculture
+👩‍🍳	chef
+👨‍🍳	cook
+👨‍🔧	mechanic
+👩‍🔧	technician,technical
+👩‍🏭	worker
+👩‍💼	professional,lawyer
+👨‍💼	businessman
+👩‍🔬	scientist,lab
+👩‍💻	programmer,engineer,designer,developer
+👩‍🎤	punk
+👨‍🎨	artist
+👩‍✈️	pilot,crew,attendant
+👩‍🚀	astronaut,cosmonaut,cosmos
+🕵	detective,investigat
+💂	guard
+👷	build,construction
+👸	princess
+👳	turban
+🧕	hijab,veil,burka,burqa
+🤵	tuxedo,suit,tux,groom,wedding
+👰	bride,wedding,bridal
+🤰	pregnant
+🤱	nursing
+🎅	santa
+🧙‍	wizard,harry,potter,gandalf
+🧚	fairy,tinker,tinkerbell,pixie,pixy
+🧛	vampire,dracula
+🧜‍	mermaid,merman,aquaman
+🧝	elf,legolas,elven
+🧞	genie,aladin,alladin,aladdin,alladdin
+🧟	zombie,zombi,zombies,undead
+💆	massage
+💇	haircut,trim
+🚶	walk,walking
+🏃	run,running
+
+👨‍💻	brogrammer,gamer
+🧔	beard
 😀	grin,happy,good
 😄	smil,funny
 😆	haha,hilarious,humor
@@ -766,7 +869,7 @@
 🤐	quiet,zip
 🤨	eyebrow
 😐	meh,blah
-😶	blank,empty
+😶	blank
 🙄	uh-oh,"uh oh"
 😬	grimac
 🤥	lying,pinocc
@@ -785,9 +888,9 @@
 🤧	sneeze,bless you,gesundheit,achoo
 😵	dizzy,dead
 🤯	mindblow,explode,nuclear
-🧐	monocle,smart,guess,gotcha,huh
-🤓	nerdy,dork,algebra,math,trigonomet,calcul,geometr,brainy,calc,quant
-😎	cool,badass,excellent,exelent,classy
+🧐	monocle,guess,gotcha,huh
+🤓	nerdy,smart,dork,algebra,math,trigonomet,calcul,geometr,brainy,calc,quant
+😎	cool,badass,excellent,exelent,classy,zoop
 😕	confused
 😟	concern
 🙁	sad,unhappy
@@ -804,12 +907,12 @@
 😞	dissapointed,"let down"
 😓	downcast
 😩	weary
-😤	angry,"mad",upset,pssh,psh
-😡	pouting,pouty,"pout"
+😤	angry,upset,pssh,psh
+😡	mad
 😠	angryface
 🤬	cussing,cussed,swearing,cursing,bad words
 💩	poo,shit,crap,turd,bs,back and forth
-🤡	clown,bozo,bezos,krusty,pennywise
+🤡	clown,bozo,bezos,krusty,pennywise,juggalo,juggalette,jugalo,juggal,jugal
 👹	mask
 👺	satan,devil,goblin,demon,apocalyp
 🙈	blind,"see"
