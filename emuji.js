@@ -46,7 +46,7 @@ client.on('ready', () => {
 client.on('messageReactionAdd', (reaction, user) => {
 	var user = user.username.toLowerCase()
 	if (!(user.includes("emuji"))) {
-		emuji.train(reaction.emoji.name,reaction.message.content)
+		emuji.teach(reaction.emoji.name,reaction.message.content)
 		emu.log("Trained " + reaction.emoji.name + " = " + reaction.message.content)
 	}
   //if(reaction.emoji.name === "✅") {
