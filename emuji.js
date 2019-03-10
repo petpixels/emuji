@@ -42,6 +42,21 @@ client.on('ready', () => {
 
 })
 
+
+client.on('messageReactionAdd', (reaction, user) => {
+	var user = user.username.toLowerCase()
+	if (!(user.includes("emuji"))) {
+		emuji.train(reaction.emoji.name,reaction.message.content)
+		emu.log("Trained " + reaction.emoji.name + " = " + reaction.message.content)
+	}
+  //if(reaction.emoji.name === "✅") {
+  //}
+})
+
+client.on('messageReactionRemove', (reaction, user) => {
+    console.log('a reaction has been removed');
+})
+
 // Reply to messages
 client.on('message', (receivedMessage) => {
   var replyRequired = false
@@ -59,11 +74,11 @@ client.on('message', (receivedMessage) => {
 
 	// React to all messages and log each reaction
 	var emuEmoji = emuji.react(receivedMessage.content)
-	console.log(emuEmoji)
+	//console.log(emuEmoji)
 
 	if (emuEmoji) {
 		for (var i = 0; i < emuEmoji.length; i++) {
-			console.log(i)
+			//console.log(i)
 			emu.log(receivedMessage.channel + msg)
 			emu.log("@emuji reacted with " + emuEmoji[i])
 			receivedMessage.react(emuEmoji[i])
