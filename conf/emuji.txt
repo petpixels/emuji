@@ -9,7 +9,7 @@
 🦊	fox,facts,fax
 🐱	kitt,puss
 🐈	cat
-🦁	lion,leo
+🦁	lion,leo,roar
 🐯	tigger,tony,hobbes,grrreat
 🐅	tiger,bengal
 🐆	cheet,cheat,leopard,spots
@@ -38,8 +38,8 @@
 🐁	mouse,mice,pinkie,pinky
 🐀	"rat",rats,vermin
 🐹	hamster,hampster,hamper,hamtaro
-🐰	bun,roger,thumper,harvey
-🐇	rabbit,rabit,"hop",easter,hopped,hopping
+🐰	bun,roger,thumper,harvey,hare
+🐇	rabbit,rabit,"hop",easter,hopped,hopping,swift
 🐿	chipmunk,squirrel,girl
 🦔	hedge,sonic
 🦇	bat
@@ -60,7 +60,7 @@
 🦉	owl,wisdom,wise,raptor,!veloc
 🐸	frog,amphib
 🐊	croc,gator
-🐢	turtl,tortoise,moses,slow
+🐢	turtl,tortois,tortoise,moses,slow
 🦎	lizard
 🐍	snake,snek,rattle,slither,parsel,viper,mamba
 🐲	drago,draco
@@ -79,7 +79,7 @@
 🐌	snail,slug,gary
 🦋	butterfly,moth,monarch,mariposa
 🐛	worm,caterpill,cocoon,coccoon,parasit
-🐜	ants,aunt,bugs,bugz,antz,anthill,fire ant,"ant",carpenter
+🐜	ants,ant,aunt,bugs,bugz,antz,anthill,fire ant,"ant",carpenter
 🐝	hive,honey,swarm,killer,sting,"bee"
 🐞	bug,lady
 🦗	grasshopper,cricut,locust
@@ -125,18 +125,18 @@
 🍅	tomat
 🥥	coconut
 🥑	avocad,code,avocat,avacad,avacod,millennial
-🍆	eggplant,dick,penis,!moby
+🍆	eggplant,dick,penis,richard
 🥔	potato
 🥕	carrot,vegan,vegeta
 ⬜	tofu
-🌽	corn,maize,!popcorn
+🌽	corn,maize
 🌶	pepper,hot,spicy
 🥒	cucumb,pickle,slice
 🥦	broccoli,brocoli
 🍄	mushr,psiloc,mario,smb
 🥜	peanut,nuts
 🌰	chest,nuts
-🍞	loaf,!loafer
+🍞	loaf
 🥐	crois,crescent
 🥖	bread,baguet,hoagie
 🥨	pretzel
@@ -226,12 +226,12 @@
 🗻	fuji,japan
 🏕	camp,intense
 🏜	desert,dessert
-🏝	island,tropical
+🏝	island,tropical,shore
 🏞	park,national park
 🏟	stadium,coliseum,colliseum,amphitheat,amplitheat
 🏛	building
 🏗	crane,lift,hoist
-🏘	houses,!house,!crack,!trap
+🏘	houses
 🏘	crack,trap
 🏘	house
 🏡	home
@@ -267,7 +267,7 @@
 🌉	bridge
 ♨	heat
 🎠	carousel,merry-go,merry go
-🎡 ferris,bueller,beuler
+🎡	ferris,bueller,beuler
 🎢	coaster,roller coaster,rollercoaster
 💈	pole,barber,hair
 🎪	circus,sideshow,side-show,side show,caliope
@@ -276,14 +276,14 @@
 🚄	rail
 🚆	locomot
 🚇	bart
-🚈	lightrail,light rail,!rail
+🚈	lightrail,light rail
 🚉	station
 🚊	tram
 🚝	monorail
-🚅	bullet train,!train
-🚞	railway,!rail
+🚅	bullet train
+🚞	railway
 🚋	skilift,ski lift
-🚌	schoolbus,school bus,!bus
+🚌	schoolbus,school bus
 🚍	bus
 🚎	trolley,trolly
 🚐	minibus,microbus
@@ -334,13 +334,13 @@
 🛰	satel
 🚀	rocket,space
 🛎	ring
-⌛	hourglass
-⏳	time,!timer
+⌛	hour,hourglass
+⏳	time
 ⌚	watch
 ⏰	alarm
 ⏱	stopwatch,second
 ⏲	timer,minute
-🕰	clock,"hour"
+🕰	clock
 🌜	moon,night,late,insomnia
 🌝	solar
 🌡	temp,celc,centigrade,fahrenh,farenh,thermo
@@ -350,9 +350,9 @@
 🌟	shining,shine
 🌠	more you know
 🌌	galaxy,milky way,solar system
-☁	cloud,datacenter
+☁	cloud,datacenter,data,server
 🌥	cloudy
-⛈	storm
+⛈	storm,stormy
 🌤	sunny
 🌧	rain
 🌨	snowing
@@ -362,10 +362,10 @@
 🌬	wind,blow,breez
 🌀	cyclon,hurrican,hurican
 🌈	rainbow,gay,homo,fag,lesb,lgbt,bisex,queer,pflag,"trans"
-🌂	umbrella
+🌂	parasol,shade
 ☂	ella
-☔	drops
-⛱	beach
+☔	drops,raining
+⛱	umbrella
 ⚡	electric,lightening,lightning
 ❄	snowflake,"snow","snows","ice"
 ⛄	snowman,frosty,frostie
@@ -378,9 +378,9 @@
 🎆	firework
 🎇	explo,"spark",boom
 ✨	sparkle,shiny
-🎈	ballo,balo,luft,party
-🎉	yay,yes,party,"fun"
-🎊	party,yay!,yes!
+🎈	ballo,balo,luft,party,surprise
+🎉	yay,yes,party,"fun",surprise
+🎊	party,yay!,yes!,surprise
 🎋	bamboo
 🎍	bonsai
 🎏	carp
@@ -458,7 +458,7 @@
 👢	boot
 👑	crown,king,queen,prince
 👒	chapeau
-🎩	top,topham,tophat,"hat",lobbyist,investor,monopoly,rich,billionair,millionair
+🎩	top,topham,tophat,"hat",abraham,lincoln,lobbyist,investor,monopoly,rich,billionair,millionair
 🎓	graduat,universit,colleg,educat
 🧢	hat,cap,ballcap
 ⛑	helmet
@@ -586,7 +586,7 @@
 🔑	secur
 🔓	unlock,insecure
 🗝	key,!turkey
-🔨	hammer,nail
+🔨	hammer,nail,improve
 ⛏	pick,digg,excavat,arhcae
 🗡	sword,dagg,pointy
 ⚔	swords,!sword,sword fight,swordfight,swashbuckle
@@ -719,7 +719,7 @@
 🔤	abc,alphabet,letters
 🔢	number,numbers
 🔣	symbol
-🆑	cl,craigslist
+🆑	craigslist,"cl"
 🆒	cool
 🆓	free
 ℹ	info
@@ -763,7 +763,7 @@
 👉	right,zoop
 🖕	fuck
 👆	this
-☝	that
+☝	point
 👍	thumb,like
 👎	dislike,thumb
 ✊	power,panther,solidarity,comrade,prole,revolut
@@ -864,8 +864,9 @@
 😝	squint
 🤑	cash,money,dollar
 🤗	jazz
-🤫	shush,shh
-🤔	hmm,hrm,umm,dunno
+🤫	shush,shh,quiet,library,silent
+🤭	gasp,oops,whoops,ouch,hurt
+🤔	hmm,hrm,umm,dunno,huh
 🤐	quiet,zip
 🤨	eyebrow
 😐	meh,blah
@@ -896,7 +897,7 @@
 🙁	sad,unhappy
 ☹	frown
 😲	astonish,argh,aaaah,aaaaah
-😳	oops,whoops
+😳	surprise,warlizard,whoops,o_o
 😦	nooo
 😨	fear,terror,terrify,terrifie,scare,fright
 😰	anxious,anxiety,worry
@@ -905,7 +906,7 @@
 😖	puzzled,stumped
 😣	persever
 😞	dissapointed,"let down"
-😓	downcast
+😓	downcast,ouch,sadly,unfortunate
 😩	weary
 😤	angry,upset,pssh,psh
 😡	mad
