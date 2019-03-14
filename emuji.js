@@ -54,7 +54,7 @@ client.on('messageReactionAdd', (reaction, user) => {
 })
 
 client.on('messageReactionRemove', (reaction, user) => {
-    console.log('a reaction has been removed');
+    console.log('a reaction has been removed')
 })
 
 // Reply to messages
@@ -79,8 +79,7 @@ client.on('message', (receivedMessage) => {
 	if (emuEmoji) {
 		for (var i = 0; i < emuEmoji.length; i++) {
 			//console.log(i)
-			emu.log(receivedMessage.channel + msg)
-			emu.log("@emuji reacted with " + emuEmoji[i])
+			//emu.log(receivedMessage.channel + msg)
 			receivedMessage.react(emuEmoji[i])
 		}
 	}
