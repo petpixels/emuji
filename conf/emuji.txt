@@ -1,6 +1,6 @@
 🐤	emu,emoji
 🤖	bot,robot,"ml",machine
-🦍	gorill,silverback,kong
+🦍	gorill,silverback,kong,harambe
 🐶	puppy,yap,pupp
 🐕	dog
 🐩	pood,boug,wealthy,millionaire,groomed
@@ -27,7 +27,7 @@
 🐽	oink,bacon,ham
 🐑	sheep
 🐏	bighorn,"ram"
-🐐	goat,greatest,baa,billy,william
+🐐	goat,greatest,baa,billy,william,great,all time,g.o.a.t,best
 🐫	bactrian,"two hump",camel
 🐪	dromedary,dromedery,hump,llama,alpaca
 🦒	giraf,girraf,geraf,neck,long horse
@@ -43,24 +43,24 @@
 🦔	hedge,sonic
 🦇	bat
 🐻	bear,bare,winnie
-🐨	koala,australia,oz,sydney,melbourn,nsw,new south wales,perth
+🐨	koala,australia,"oz",sydney,melbourn,nsw,new south wales,perth
 🐼	panda,china,wwf
 🐾	track,paws,pause,prints
 🦃	turk
 🐔	cocky
-🐓	cock,rooster,chicken
-🐣	chick,hatch,shell,peep
-🐥	duckling,gosling,peep
-🐦	bird,word,sparrow
+🐓	cock,rooster,chicken,cluck,cockadoodle
+🐣	hatch,shell,peep,peep,cheap,cheep
+🐥	duckling,gosling,chick
+🐦	bird,word,sparrow,twit,tweet,chirp
 🐧	peng,emperor,auk
 🕊	dove,peace
 🦅	eagle,america,"usa",merica,mercia,murica,murcia
-🦆	duck,fuck,fuk,"af",mallard,malliard,mallaird,bill
+🦆	duck,fuck,fuk,"af",mallard,malliard,mallaird,bill,fucking
 🦉	owl,wisdom,wise,raptor,!veloc,knowledge
-🐸	frog,amphib
+🐸	frog,amphib,kermit,pepe,toad,hypnotoad,michigan,frogger,froggy
 🐊	croc,gator
-🐢	turtl,tortois,tortoise,moses,slow
-🦎	lizard
+🐢	turtl,tortois,tortoise,moses,slow,turtle,cowabunga
+🦎	lizard,reptile
 🐍	snake,snek,rattle,slither,parsel,viper,mamba,hiss,dissing
 🐲	drago,draco
 🐉	draca,falcor,smaug,toothless
@@ -73,13 +73,13 @@
 🐠	tropical,flounder
 🐡	puff,blowfish
 🦈	shark
-🐙	octo,git
+🐙	octo,git,cuddle,cuddly,"hug"
 🐚	shell,conch
 🐌	snail,slug,gary
-🦋	butterfly,moth,monarch,mariposa,uterus,vagin
+🦋	butterfly,moth,monarch,mariposa,uterus,vagin,uturus,vulva
 🐛	worm,caterpill,cocoon,coccoon,parasit
 🐜	ants,ant,aunt,bugs,bugz,antz,anthill,fire ant,"ant",carpenter
-🐝	hive,honey,swarm,killer,sting,bee,buzz,bees,swarm,behave,beehive,beeline
+🐝	hive,honey,swarm,killer,sting,bee,buzz,bees,swarm,behave,beehive,beeline,beyoncé,beyonce
 🐞	bug,lady
 🦗	grasshopper,cricut,locust
 🕷	spider,black widow,arach
@@ -97,9 +97,9 @@
 🌷	tulip,holland,netherland,amsterdam,utrecht,rotterdam
 🌱	sapling,seedling,growing
 🌲	evergreen,pine
-🌳	shade,oak,raleigh,wood,forest,forrest,branch
+🌳	shade,oak,raleigh,wood,forest,forrest,branch,tree,log,trees
 🌴	palm
-🌵	cactus,sticky
+🌵	cactus,cacti,cactipodes,sticky,cactuar,cact,mescalin,peyote
 🌾	rice,wheat,grain,millet,quinoa,qinoa,oats,barley
 🌿	fern,herb
 ☘	shamrock,irish,leprech
@@ -112,31 +112,31 @@
 🍉	watermelon,watermellon
 🍊	orang,naranj,tang
 🍋	lemon,lima,sprite,citrus,limon
-🍌	banana
-🍍	pineapple,pinapple,piña,colada,pina colada,pinacolada
-🍎	apple,mac,iphone,ipad,ipod,macintosh,"bob",mcintosh,newton
+🍌	banana,bananas
+🍍	pineapple,pinapple,piña,colada,pina colada,pinacolada,ananas
+🍎	apple,mac,iphone,ipad,ipod,macintosh,"bob",mcintosh,newton,applesauce,fiona
 🍏	granny,smith
 🍐	pear,stair,pair
-🍑	peach,fuzz,ass,butt,vagin
+🍑	peach,fuzz,ass,butt,vagin,derriere,tousche,tuchus,proctologist,anal
 🍒	cherr
 🍓	berry
 🥝	kiwi,zealand
-🍅	tomat,sauce,source,saucy,sauc,marinara
+🍅	tomat,sauce,source,saucy,sauc,marinara,salsa
 🥥	coconut
-🥑	avocad,code,avocat,avacad,avacod,millennial
+🥑	avocad,code,avocat,avacad,avacod,millennial,basic,trendy,guac,guacamole,salsa
 🍆	eggplant,dick,penis,richard
-🥔	potato
+🥔	potato,tater,potatoes,tots,tuber,baked
 🥕	carrot,vegan,vegeta
 ⬜	tofu
 🌽	corn,maize
 🌶	pepper,hot,spicy
-🥒	cucumb,pickle,slice
+🥒	cucumb,pickle,slice,pepino
 🥦	broccoli,brocoli
 🍄	mushr,psiloc,mario,smb,fung,fungus,fungi,fun guy,spore,mycelia
-🥜	peanut,nuts
+🥜	peanut,nuts,goober,roast,boil
 🌰	chest,nuts
 🍞	loaf
-🥐	crois,crescent
+🥐	crois,crescent,croissant,france,europe
 🥖	bread,baguet,hoagie
 🥨	pretzel
 🥞	pancake,!cake
@@ -157,14 +157,14 @@
 🥚	egg
 🍳	cook,frying,pan,fried,yolk,drugs,scrambled,saute,sauté
 🥘	pot,boil,simmer,back burner
-🍲	food,soup,stew
+🍲	food,soup,stew,ramen
 🥣	bowl
 🥗	salad
 🍿	popcorn
 🥫	can,canned,sauce,preserve,jar,spice
 🍱	bento,konmari,kondo
 🍘	cracker
-🍙	snack
+🍙	onigiri,triangle,triangl,triangular
 🍚	rice
 🍛	curry
 🍜	nood,ramen
@@ -181,13 +181,13 @@
 🦀	crab
 🦐	shrimp,prawn
 🦑	squid,cthulu,calimari,calamari
-🍦	icecream,cone,ice cream
+🍦	ice,icecream,cone,ice cream,softserve,melt,melting,meltdown
 🍧	snowcone
 🍨	vanilla,vannila,vannilla,dessert
 🍩	doughnut,donut,donot,dough nut
 🍪	cookie,"chip"
-🎂	cake,birthday,annivers
-🍰	slice,piece,shortcake
+🎂	cake,birthday,annivers,baked,bake
+🍰	slice,piece,shortcake,snack
 🥧	UNSUPPORTED
 🍫	choco
 🍬	candy,sweet,bon bon,bonbon,sugar
@@ -209,14 +209,14 @@
 🥃	whiskey,bourbon
 🥤	drink,soda,coke,pepsi,sprite,drank
 🥢	chopstick,chop sticks
-🍽	plate,dinner,cook,eat
-🔪	cut,stab,knife,kniv,sharp,chop,chopping
+🍽	plate,dinner,cook,food,dinner,supper,lunch
+🔪	cutting,"cut",cutout,cutt,slice,slicing,stab,knife,kniv,sharp,chop,chopping,destroy,kill,desctruct
 🍴	fork,utensil,silverware,silverwear
 🥄	spoon
 🏺	amphora,pottery
 🌍	earth
-🌎	earth1
-🌏	earth2
+🌎	americas,planet
+🌏	reality,universe
 🌐	glob
 🗺	map,plan
 🗾	japan,country
@@ -226,24 +226,24 @@
 🗻	fuji,japan
 🏕	camp,intense
 🏜	desert,dessert
-🏝	island,tropical,shore
+🏝	island,tropical,shore,beach
 🏞	park,national park
 🏟	stadium,coliseum,colliseum,amphitheat,amplitheat
-🏛	building
+🏛	building,institute,institution
 🏗	crane,lift,hoist
 🏘	houses
 🏚	crack,trap
 🏘	house
 🏡	home
-🏢	office,skyscraper
+🏢	office,skyscraper,apartment,condo,apart
 🏣	Unsupported
 🏤	post office,p.o,USPS
 🏥	hospital,e.r,emergency room
-🏦	bank
+🏦	bank,paypal,wells,fargo,banque,cheque
 🏨	hotel
 🏩	motel
-🏪	convenien,convenein
-🏫	school,universit
+🏪	convenien,convenein,store,7-11
+🏫	school,universit,tuition
 🏬	department,macy,bloomingdale
 🏭	factory,manufact
 🏯	pagoda,shogun
@@ -251,7 +251,7 @@
 💒	wedding,marriage,marraige,married,engaged,fiance,chapel
 🗼	tower
 🗽	liberty,justice
-⛪	church,cathedral,basilica,basillica,parish,parrish,iglesia,iglecia,omg,believe,jesus
+⛪	church,cathedral,basilica,basillica,parish,parrish,iglesia,iglecia,omg,believe,jesus,preacher,pastor,priest,pope
 🕌	mosq,god,allah
 🕍	synagog,temple
 ⛩	shinto,shrine
@@ -287,13 +287,13 @@
 🚍	bus
 🚎	trolley,trolly
 🚐	minibus,microbus
-🚑	waa,burn,ambulance,medic,911,emergency
+🚑	waa,burn,ambulance,medic,911,emergency,murder
 🚒	fire,burn,911
-🚔	fuzz,"cops",po po,popo,five-o,187,woop,the man,swat,busted,arrest,911,"dwi","dui"
-🚓	police,cop,swat,wanted,arrest,911,"dwi","dui"
+🚔	fuzz,"cops",po po,popo,five-o,woop,the man,swat,busted,arrest,911,"dwi","dui",murder
+🚓	police,cop,swat,wanted,arrest,911,"dwi","dui",murder
 🚕	uber,lyft,"cab"
 🚖	taxi
-🚗	drive,driving, car,auto,mobile,accord,civic,tesla
+🚗	drive,driving, car,auto,mobile,accord,civic,tesla,ride,pimp,riding
 🚘	crash,collision,collide
 🚙	SUV,jeep,vehicl,vehicular,"dwi","dui"
 🚚	truck
@@ -322,7 +322,7 @@
 ⛴	ferry
 🛥	motorboat,speedboat,speed boat
 🚢	ship
-✈	plane
+✈	plane,fly
 🛩	jet
 🛫	takeoff,take-off,take off,departure
 🛬	landing,arrival
@@ -333,7 +333,7 @@
 🚡	aerial
 🛰	satel
 🚀	rocket,space
-🛎	ring
+🛎	service,customer,client,guest,server,waiter,garcon,waitress,waitstaff,"ring"
 ⌛	hour,hourglass
 ⏳	time,wait,waiting
 ⌚	watch
@@ -353,7 +353,7 @@
 ☁	cloud,datacenter,data,server
 🌥	cloudy
 ⛈	storm,stormy
-🌤	sunny
+🌤	sunny,clear,clearly
 🌧	rain
 🌨	snowing
 🌩	thunder
@@ -367,11 +367,11 @@
 ☔	drops,raining
 ⛱	umbrella
 ⚡	electric,lightening,lightning,zap,volt,power,zeus,tesla
-❄	snowflake,"snow","snows","ice"
+❄	snowflake,"snow","snows","ice",cold,freezing,frozen,freeze,freezer
 ⛄	snowman,frosty,frostie
 ☄	comet,meteor,shooting star
-🔥	fire,burn,flam,liar,lied
-💧	droplet,water,tears,teardrop,drop
+🔥	fire,burn,flam,liar,lied,"lit",hella,hell,hecka
+💧	droplet,water,tears,teardrop,drop,stream,river
 🌊	waves,"sea","seas"
 🎃	pumpkin,halow,hallow,jack
 🎄	christmas,xmas,tannenbaum
@@ -380,7 +380,7 @@
 ✨	sparkle,shiny
 🎈	ballo,balo,luft,party,surprise,dirigible,zepplin,airship,helium,float,floating
 🎉	yay,yes,party,"fun",surprise
-🎊	party,yay!,yes!,surprise
+🎊	party,yay!,yes!,surprise,nice
 🎋	bamboo
 🎍	bonsai
 🎏	carp
@@ -396,16 +396,16 @@
 🥉	bronz,third,3rd,3st
 🏆	trophy
 ⚽	football,futbol
-⚾	baseball,ball
-🏀	ball,basketball,bball,b-ball,hoops,bounce,bounc,baller
-🏐	volley,ball
+⚾	baseball,ballpark,ballgame,homerun,homer
+🏀	ball,basketball,bball,b-ball,hoops,bounce,bounc,baller,score
+🏐	volley,volleyball,spike
 🏸	racket,shuttlecock,badminton,badmitt
-🏈	pigskin,field,american football,foot
+🏈	pigskin,field,american football,foot,touchdown,touch down,fieldgoal,field goal
 🏉	rugby
-🎾	tennis,fetch
+🎾	tennis,fetch,serve
 🎳	bowling,strike,spare
 🏏	cricket
-🏒	hockey,hokey,puck,ice
+🏒	hokey,puck,ice
 🏓	ping,pong
 🥊	boxing,punch
 🥋	karate,dojo,sensei,senpai,blackbelt,black belt,kung fu,martial arts,marital arts
@@ -416,32 +416,32 @@
 ⛸	skat,rink
 🛷	sled,sleigh,slay
 🥌	curling
-💅	fingernail,difficult,hard,challeng,nailpolish,relax,chill,resting
+💅	fingernail,difficult,hard,easy,simple,challeng,nailpolish,relax,chill,resting,nails,fleek,fabulous,diva,mani,peti,mani-pedi,manipedi,pedicure,manicure
 🎯	target,bullseye
 🎱	pool,billiard,eight,"8"
 🔮	crystal,fortun,futur,future
 🎮	game
 🕹	console
 🎰	casino,vegas,slot,bandit,777,jackpot
-🎲	dice,snakeyes
-♠	ace,spade,blackjack
+🎲	dice,snakeyes,gamble,gamble,gambling,d6,d10,d20,betting,odds,risk,game,random
+♠	ace,spade,blackjack,aces
 ♥	heart,fav,love,coeur,cœur
 ♦	diamonds
 ♣	clubs
-🃏	joker,poker
+🃏	joker,poker,cards,wildcard,wild
 🀄	mahjong
 🎭	drama,thesbian
-🖼	painting,pic
+🖼	painting,pic,museum,exhibit,frame
 🎨	paint,painter,colors,palette,pallete,pallette,palet
-👓	nerd,glasses,smart,see,intell
+👓	glasses,bifocals,spec,specs,spectacle,lens,lenses,smart,see,intell
 🕶	sunglass,deal with it
 👔	necktie,tie
 👕	shirt,sleeve,sleev
-👖	pants,jean,denim,gene,liar,lied
+👖	pants,jean,denim,genes,genetic,genetics,dna,ancestor,levi,liar,lied,jeans
 🧣	scar,muffler
 🧤	glov,mitt
 🧥	coat,jacket,sweater,warm,flash,flasher,flashing
-🧦	sock
+🧦	sock,dobby,"elf"
 👗	dress,address
 👘	kimono
 👙	bikini,bathing suit,underwear,panties,thong,drawers,laundry,naked,sexy
@@ -464,7 +464,7 @@
 ⛑	helmet
 📿	beads,necklace,jewelry,jewelery,rosary
 💄	lipstick
-💍	ring,engage,engaged,engagement,fiance
+💍	shiny,girlfriend,wife,"ring",engage,engaged,engagement,fiance
 💎	gem,diamond,ruby
 💼	case
 🔇	mute
@@ -475,7 +475,7 @@
 🔔	bell
 🎼	music
 🎵	"sing",eighth,tune,note
-💃	dance,dancing
+💃	dance,dancing,party
 🕺	disco,boog,fever,singer,voice
 🧖	steamy,sauna
 🧗	climb
@@ -492,9 +492,10 @@
 🤸	cartwheel,gymnast
 🤼	wrestle,wrassle,wwe
 🤹	juggle,juggling
-🕴	spy,spies,stranger,cia,nsa,kgb,fbi,fsb,spooks,mi5,mossad,mi6
+🕴	spy,spies,stranger,cia,nsa,kgb,fbi,fsb,spooks,mi5,mossad,mi6,privacy,private,security
+👯‍	hooker,stripper,whore
 🎶	song,humming,whistling,whistle
-🎚	volume
+🎚	volume,switch
 🎛	knob
 🎤	mic,voice
 🎧	phones,pods
@@ -517,7 +518,7 @@
 🖨	print
 ⌨	keyboard
 🖱	mouse
-💾	save,floppy,disk,file,files,saved
+💾	save,saving,floppy,disk,file,files,saved,stored,storage
 💿	cd,disc,eject
 📀	dvd,bluray,blu-ray
 🎥	movie
@@ -531,7 +532,7 @@
 📼	vhs,beta,vcr,rewind,tape,cassette,casette,cassete
 🔍	search
 🔎	find,found
-🕯	candle,match
+🕯	candle
 💡	idea,bulb,lightbulb,light
 🔦	flash
 🏮	lantern
@@ -552,12 +553,12 @@
 📰	magazine
 🔖	bookmark
 🏷	tag
-💰	moneybag,value,valuable,worth,loot
+💰	moneybag,value,valuable,worth,loot,payback,paid
 💴	yen
-💵	money,dollar,"bet",betcha,gamble,gambling,poker
+💵	money,dollar,"bet",betcha,poker,raise
 💶	euro
 💷	pound,sterling
-💸	investment
+💸	investment,invest,payment,paying,paid,bills
 💳	credit
 💲	dollar,$,cents,sense
 💱	currency
@@ -575,7 +576,7 @@
 🖍	crayon
 📝	memorandum,"memo"
 📂	folder
-📆	tomorrow,yesterday,back in the day
+📆	tomorrow,yesterday,back in the day,way back,wayback
 📅	today,date
 📋	clipboard
 📌	tack
@@ -585,38 +586,38 @@
 📐	triang
 ✂	scissor,"cut"
 🗄	file,filing,cabinet
-🗑	trash,waste
+🗑	trash,waste,delete,trashcan,garbage
 🔒	lock,!unlock
-🔑	secur
+🔑	secur,secure
 🔓	unlock,insecure
 🗝	key,!turkey
-🔨	hammer,nail,improve
+🔨	hammer,nail,improve,gavel,toolbox,tools
 ⛏	pick,digg,excavat,arhcae
-🗡	sword,dagg,pointy
+🗡	sword,dagg,pointy,fabio,sword
 ⚔	swords,!sword,sword fight,swordfight,swashbuckle
 🔫	gun,shoot,bullet,bang,trigger,battle,warfare,violent,violence,soldier
 🏹	arrow,"bow"
 🛡	shield,sheild,armor
-🔧	wrench,fix,work
+🔧	wrench,fix,work,implement,tool,tools,toolbox
 🔩	bolt,madness,"nut"
 ⚙	gear,cog,sprocket
-🗜	clamp
-⚖	scale,balance,libra,tipped,weight
-🔗	link
-⛓	chain
+🗜	clamp,cramp
+⚖	scale,balance,libra,tipped,weight,justice
+🔗	link,chain
+⛓	chains,bondage,slave,capture,bdsm,fetish
 🔬	micro
 🔭	tele
 📡	dish,anten
-💉	vacc,needle,inject,vaxx
+💉	vacc,needle,inject,vaxx,tattoo,tatoo,hypo,junkie,junky,addict,donate,donor
 💊	pill,capsule,tablet,medicine,pharma,meds,presceiption,pharmacy,cvs,walgreens
 🚪	door,shut
 🛏	sleep,dream,bed,mattress,matress,"bed",wake,woke,waking,rest
 🛋	couch,sofa,lamp
-🚽	toilet,commode,bathroom,flush,crapper,shitter,urine,pee,piss,urin
+🚽	toilet,commode,bathroom,flush,crapper,shitter,urine,pee,piss,urin,pissing,bowel
 🛁	bath,bathtub,"tub"
 🚿	shower
 🛒	buggy
-🚬	cigar,smoke,nicotine,pipe
+🚬	cigar,smoke,nicotine,pipe,cigarette,smoking
 ⚰	coffin,coughing
 ⚱	urn,remain
 🗿	head,tiki
@@ -626,7 +627,7 @@
 ♿	mobility,disabil,disabl,wheelchair
 🚼	diaper
 🛂	papers,passport,citizen
-🛃	search,security,checkpoint
+🛃	search,checkpoint
 🛄	baggage,luggage,suitcase,carry on,carry-on,carryon
 ⚠	caution,warn,achtung,danger,wet floor,watch out
 🚸	crossing
@@ -657,7 +658,7 @@
 ♑	capricorn
 ♒	aquarius
 ♓	pisces
-⚛	scien,atom,nuclear,quantum,physics,atomic,science,scientific
+⚛	scien,atom,nuclear,quantum,physics,atomic,science,scientific,theory,hypothesis,thesis
 ☯	yin,yang,yinyang,yin-yang,balance,harmony,equal,"chi",qigong,ching,tao,dao,buddh
 ✝	christ,nazareth,cross,crucifix
 ☦	orthodox
@@ -686,15 +687,15 @@
 📛	badge
 🔰	JDM
 ⭕	circle
-✔	check,mate
+✔	check,mate,checking
 ☑	checkbox
 ✅	checkmark
 ✖	ex
-➕	plus
-➖	minus
+➕	plus,positive,positiv
+➖	minus,negative,negativ
 ✖	multipl,times
 ➗	divide,divis
-➰	delete,edit
+➰ edit,proofread
 ➿	strikethrough
 〽	stock,market,nyse,nasdaq,nikkei,s&p,wallstreet,financ,accounting,bookkeep
 ❇	jack
@@ -719,12 +720,12 @@
 7️⃣	seven
 8️⃣	eight
 9️⃣	nine
-🔟	ten
+🔟	dime,"ten"
 🅰	"a"
 🅱	"b"
 🆎	"ab"
 🔤	abc,alphabet,letters
-🔢	number,numbers
+🔢	number,numbers,random
 🔣	symbol
 🆑	craigslist,"cl"
 🆒	cool
@@ -745,26 +746,26 @@
 🏴	black flag
 🏳️‍🌈	flag
 🧘	yoga,meditat,relax,zen,buddh,tranquil,calm,sit
-🤠	cowboy,texas,houston,dallas,austin,west
-😈	devilish,naughty,"bad"
+🤠	cowboy,texas,houston,dallas,austin,west,howdy
+😈	devilish,naughty,"bad",frisky,sexy,sexi
 💀	skull,yorrick,yorick,died
 ☠	dead,crossbones,jolly,roger,rodger,pirat,pirac,yarr,torrent,bones,bone
 👾	invade
 💔	broken
 👻	ghost,spirit,haunt,soul,scare,boo,halloween,casper
 💯	hundred,100
-💣	bomb
+💣	bomb,blast,explode
 🕳	hole,whole,empty
-💬	speech,spoke,message,said,message,mesage,msg,speak,"say",said,talked,talking,saying,chat,chitchat,chatbot
+💬	speech,spoke,message,said,message,mesage,msg,speak,"say",said,talked,talking,saying,chat,chitchat,chatbot,reply,replied
 💭	thought,bubble,think,think
 🗯	yelling,shouting,screaming
-💤	zzz,sleep
-👋	hello,wave,waving,howdy,"hi",meet,greet,"hey"
+💤	snoring,zzz,sleep
+👋	hello,wave,waving,howdy,"hi",meet,greet,"hey",welcome
 🤚	five
-🖐	palm
+🖐	palm,touch
 ✋	hand,manual
 🖖	spock,prosper,live long,trek,vulcan,logic
-👌	thanks,got it,understood,yes,understand,get it,will do,"k",i know
+👌	thanks,got it,understood,understand,yeah,yeah,get it,will do,"k",i know
 ✌	peace,piece,pieces
 🤞	crossed,fingers crossed,fingers
 🤟	ily,ilu
@@ -772,15 +773,15 @@
 🤙	dude
 👈	left,zoop
 👉	right,zoop
-🖕	fuck
-👆	this
+🖕	fuck,"fu",screw you,flip off,finger
+👆	this,point
 ☝	point
-👍	thumb,like,good,better
+👍	thumb,like,good,better,okay
 👎	dislike,thumb,don't,"no",not,nyet
 ✊	power,panther,solidarity,comrade,prole,revolut
 👏	applause,applaud,clapping,clap,congrats,congratulations,won
-🙌	praise
-👐	hands
+🙌	praise,preach
+👐	hands,wings,flap
 🤲	palms,open,empty
 🤝	shake,deal,handshake
 🙏	pray,prayer,praying
@@ -793,39 +794,50 @@
 👂	hear,hearing,heard,listen,listened,sound,ears
 👅	taste,tongue,lick
 👄	mouth,lips,lip,muax
-👶	nevermind,toddl
-🧒	child
+👶	nevermind,toddl,child,childish,children
+🧒	Unsupported
+👦	male,amab,masculine,mascul
+👧	female,afab,feminine,feminin
 🧑	person,people,human,mankind,nonbinary,non-binary
 👨	man,men,chico,guy,dude,bro
-👩	woman,mother,chica,sis,lady
+🧔	beard
+👩	woman,mother,chica,sis,lady,estrogen,ovulation,femme
 🧓	older,senior
 👵	grandma,grannie,granny,grandmother,older,maw,mama,senior,menopause
-👴	grandpa,grandad,gran,grandfather,pawpaw,papa,geriatric
-🙍	serious
-🙎	pout,pouting,pouty
+👴	grandpa,grandad,gran,grandfather,pawpaw,papa,geriatric,retired
+🙍	serious,sirius
+🙎	pout,pouting,pouty,hmph,hrmph,so what
+🙅	consent,stop,timeout,time-out,time out,stop it,quit,no good,penalty
+🙆	sure
 🙆	ymca
 🙋	raise,volunteer,sign up,signup,question
-💁	flip,info,sass,bold,mmm,nerve,assert,whatever,ikr
-🙇	bowing
-🤦	facepalm,ffs
-🤷	shrug,dunno,confused,maybe
-👨‍⚕️	nurse
-👩‍⚕️	doctor
+💁	flip,info,sass,bold,mmm,nerve,assert,whatever,ikr,help,helping,idk,don't know
+🙇	bowing,pressure,favour,favor
+🤦	facepalm,ffs,smh,picard,face palm,frustrat,embarass,embarras
+🤷	shrug,dunno,confused,maybe,don't know
+👨‍⚕️	nurse,medical
+👩‍⚕️	doctor,health
 👨‍🎓	student
 👨‍🏫	teacher,profess
-👩‍⚖️	judge,judicia
-👨‍🌾	farmer,agriculture
-👩‍🍳	chef
-👨‍🍳	cook
-👨‍🔧	mechanic
-👩‍🔧	technician,technical
-👩‍🏭	worker
+👩‍⚖️	judge,judicia,justice,court,judgment,judgmental,gavel,guilty
+👨‍🌾	farmer,agriculture,farming,farm,sowing,seeacetyleneds
+👩‍🌾	farmette
+👩‍🍳	chef,patisserie,pastry,baker,bake,baking
+👨‍🍳	cook,cooking,kitchen
+👨‍🔧	mechanic,repair,fix,broken
+👩‍🔧	technician,technical,techn
+👩‍🏭	worker,people,prole,proletariat,marx,communism,stalin,lenin,ussr,union,labor
+👩‍🏭	welder,welding,solder,sauder,soldering,torch,blowtorchacetylene
 👩‍💼	professional,lawyer
-👨‍💼	businessman,suit,other guy,other man
+👨‍💼	businessman,suit,other guy,other man,manager,boxx
 👩‍🔬	scientist,lab
-👩‍💻	programmer,engineer,designer,developer
+👩‍💻	programm,engineer,designer,developer,programm,coder,coding,hacker,hack,hacking
+👨‍🔬	lab,laboratory,test,testing
+👩‍🔬	science,scientist,experiement,experiemental
+👨‍💻	gamer,brogrammer
+👨‍🎤	bowie,flamboyant
 👩‍🎤	punk
-👨‍🎨	artist
+👨‍🎨	artist,picasso,bob ross,monet,van gogh,davinci,da vinci,kahlo,warhol,rembrandt,rembrant,dali,renoir,louvre
 👩‍✈️	pilot,crew,attendant
 👩‍🚀	astronaut,cosmonaut,cosmos
 🕵	detective,investigat
@@ -851,28 +863,27 @@
 💇	haircut,trim,harry,pretty
 🚶	walk,walking
 🏃	run,running
-👨‍💻	brogrammer,gamer
 👀	eyes,look,sight,check this,check it,peep,see
 👁️‍🗨️	watching,big brother,spying,agent,looking,eye,bye
-🧔	beard
 😀	grin,happy,good
-😄	smil,funny
-😆	haha,hilarious,humor
+😄	lol,smil,funny
+😆	hilarious,humor
 😁	beaming,:-D
 😅	nervous,sweat,nerves,phew,whew,calm,calmed,calming,reassure,reassur
-😂	lol,laugh,laughter
-😢	cry,tear,crying,tears,sad,waa,sorry
+😂	haha,laugh,laughter
+😢	cry,tear,crying,tears,sad,waa,sorry,sentimental
 🤣	rofl,lmao,ridiculous
 🙂	smile,:),:-)
 🙃	upside
+😋	eating,savor,taste
 😉	wink,winked,winky,winking
 😁	grin
-😊	blush,shy
+😊	blush,shy,cute
 😇	halo,innocent,naive,angel,heaven,spirit
-😍	hearteyes,loving,love it,hearts,great,awesome,fantastic,wonderful,beautiful,beaut
+😍	wow,hearteyes,loving,love it,hearts,awesome,fantastic,wonderful,beautiful,beaut
 🤩	starstruck,starry
 😘	kiss,mwah
-😛	lick,tongue
+😛	lick,tongu
 😜	jank,drunk,fucked up,messed up,crazy,nutty,insane,insan,loco
 🤪	Unsupported
 😝	squint
@@ -883,14 +894,14 @@
 🤔	hmm,hrm,umm,dunno,huh,not sure,unsure,doubt,thinking
 🤐	quiet,zip,zipper,zipped
 🤨	eyebrow
-😐	meh,blah
+😐	meh,blah,neutral,sentiment
 😶	blank
 🙄	uh-oh,"uh oh"
 😬	grimac
 🤥	lying,pinocc
 😏	smirk,"heh",side eye,sarcas,heh
 😒	unamused,annoyed,irrtated,aggravated,sigh
-😴	tired,sleepy,zzz
+😴	tired,sleepy,zzz,snoring,snore
 🤤	drool
 😪	asleep
 😔	pensive
@@ -901,16 +912,16 @@
 🤢	nausea,nauseo,illness,"ill",the flu,a cold
 🤮	vomit,throwup,puke,hurl
 🤧	sneeze,bless you,gesundheit,achoo
-😵	dizzy,dead
+😵	dizzy
 🤯	mindblow,explode,nuclear,blown
 🧐	monocle,guess,gotcha,huh
-🤓	nerdy,smart,dork,algebra,math,trigonomet,calcul,geometr,brainy,calc,quant,clever,know
+🤓	nerdy,smart,dork,algebra,math,trigonomet,calcul,geometr,brainy,calc,quant,clever,know,algorithm
 😎	cool,badass,excellent,exelent,classy,zoop
 😕	confused
-😟	concern
-🙁	sad,unhappy
+😟	concern,letdown,let down
+🙁	unhappy,upset,depress,depressed,disappoint,disapoint
 ☹	frown
-😲	astonish,argh,aaaah,aaaaah
+😲	whoa,astonish,argh,aaaah,aaaaah
 😳	surprise,warlizard,whoops,o_o
 😦	nooo
 😨	fear,terror,terrify,terrifie,scare,fright
@@ -922,11 +933,11 @@
 😞	dissapointed,"let down"
 😓	downcast,"ow","ouch",sadly,unfortunate
 😩	weary
-😤	angry,upset,pssh,psh
+😤	angry,upset,pssh,psh,pissed
 😡	mad
 😠	angryface
 🤬	cussing,cussed,swearing,cursing,bad words
-💩	poo,shit,crap,turd,bs,back and forth,feces
+💩	poo,shit,crap,turd,bs,back and forth,feces,doo
 🤡	clown,bozo,bezos,krusty,pennywise,juggalo,juggalette,jugalo,juggal,jugal
 👹	mask
 👺	satan,devil,goblin,demon,apocalyp
@@ -1006,7 +1017,7 @@
 🇫🇰	falkland
 🇫🇲	micronesia
 🇫🇴	faroe
-🇫🇷	france,paris,marseille,eiffel,lyon,bordeaux,toulous,romance,underpants,franc
+🇫🇷	france,paris,marseille,eiffel,lyon,bordeaux,toulous,romance,underpants,franc,french
 🇬🇦	gabon
 🇬🇧	england,british,brittain,brittish,"u.k",uk,united kingdom,london,english,manchester,liverpool,cambridge,newcastle,oxford,cheerio,limey,lime
 🇬🇩	grenada
