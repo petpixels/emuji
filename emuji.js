@@ -13,6 +13,19 @@ const emujiUserID = "Emuji#8780"
 // channels (probably shouldn't be hardcoded)
 // maybe create a clever algorithm that searches for a channel named emu
 const chan_emu = "552238617926303750"
+var banned_channels = [
+	"551534978417295410", // bot-design
+	"556599504225173526", // urzas-playground
+	"546640535591321601", // pet pixels
+	"546640420474585088", // underwood-associates
+	"547350390069264395", // business-plan
+	"546639371726487566", // business
+	"546640519728463880", // smart-purse
+	"547185764505747481", // prosthetics
+	"546641021484793866", // ella-fit
+	"550852692688240661"  // dub-dub
+]
+
 
 var emu = new emubot()
 
@@ -31,8 +44,10 @@ client.on('ready', () => {
 	emu.default_reply("...")
   emu.keywords("emu ostrich cassowary bird")
   emu.rating("G")
-
 	emuji.load_dictionary()
+
+	var test = emuji.load_dictionary()
+	console.log(test)
 
   // set discord client "now playing"
   client.user.setActivity(emu.play())
@@ -73,14 +88,25 @@ client.on('message', (receivedMessage) => {
 	}
 
 	// React to all messages and log each reaction
+	//var emuEmoji = emuji.react(receivedMessage.content)
 	var emuEmoji = emuji.react(receivedMessage.content)
-	//console.log(emuEmoji)
+	//console.log("MONGO EMOJI: ***** ")
+	//console.log(mongoEmoji)
 
+	var banned = false
+	for (channel in banned_channels) {
+		if (banned_channels[channel] == receivedMessage.channel.id) {
+			banned = true
+		}
+	}
+
+	if (!(banned)) {
 	if (emuEmoji) {
-		for (var i = 0; i < emuEmoji.length; i++) {
-			//console.log(i)
-			//emu.log(receivedMessage.channel + msg)
-			receivedMessage.react(emuEmoji[i])
+			for (var i = 0; i < emuEmoji.length; i++) {
+				//console.log(i)
+				//emu.log(receivedMessage.channel + msg)
+				receivedMessage.react(emuEmoji[i])
+			}
 		}
 	}
 
@@ -157,7 +183,16 @@ client.on('message', (receivedMessage) => {
     }
 
     if (!(silent)) {
-      emu.reply(receivedMessage.channel, receivedMessage.content)
+			var banned = false
+			for (channel in banned_channels) {
+				if (banned_channels[channel] == receivedMessage.channel.id) {
+					banned = true
+				}
+			}
+
+			if (!(banned)) {
+	      emu.reply(receivedMessage.channel, receivedMessage.content)
+			}
     }
   } else {
 
