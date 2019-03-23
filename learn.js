@@ -7,34 +7,8 @@ url = bot_secret.mongo_url
 var emubot = require('./lib/bot')
 var emuji = require('./lib/emuji-functions')
 
-const cron = require('node-cron');
-const fs = require('fs')
-
-const discord = require('discord.js')
-const client = new discord.Client()
-
-const conf_dir = "conf" // learrning directory
-const learn_dir = "learn" // learrning directory
-const learn_file = "potential"
-const train_file = "training"
-const user_teach_file = "user_training"
-
-const default_dictionary_file = "emuji" // log file name
-
-// open user training log file into an array
-
 var dictionary = []
 var user_training = []
-
-var dictionary_file = conf_dir + "/" + default_dictionary_file + ".txt"
-var training_file = learn_dir + "/" + user_teach_file + ".txt"
-
-//var emuji_library = fs.readFileSync(dictionary_file).toString().split("\n")
-//var emuji_training = fs.readFileSync(training_file).toString().split("\n")
-
-
-console.log("@emuji: dictionary file loaded (" + dictionary_file + ")")
-console.log("@emuji: training file loaded (" + training_file + ")")
 
 function load_dictionary() {
 	var col = "dictionary"
@@ -48,11 +22,8 @@ function load_dictionary() {
 			if (err) throw err
 			dictionary = result
 			emuji_library = result
-			//mongo_library = result
 
-			//console.log(mongo_library)
 			console.log("@emuji: dictionary loaded from db")
-
 			return dictionary
 		})
 	})
@@ -163,7 +134,6 @@ load_training()
 
 
 if (dictionary && user_training) {
-	console.log("loaded")
 	//deleteAll()
 }
 
@@ -181,16 +151,11 @@ function learn(user_training) {
 		var emoji = {}
 
 		var curEntry = user_training[train]
-		//var aEntry = curEntry.split("\t")
 
-		// emoji is the first item
-		//if (aEntry[0]) { emoji.emoji = aEntry[0] }
-		//if (aEntry[1]) { emoji.keywords = aEntry[1].toLowerCase().replace(/[.,\/#\"!\\?$%\^&\*;:{}=\-_`~()]/g,"").replace(/\n/g) }
-
+		// build emoji from current entry
 		emoji.emoji = curEntry.name
 		emoji.keywords = curEntry.keyword.toLowerCase().replace(/[.,\/#\"!\\?$%\^&\*;:{}=\-_`~()]/g,"").replace(/\n/g)
 
-		console.log(emoji)
 		if (emoji.keywords) {
 			var tmpKeywords = emoji.keywords
 			tmpKeywords = tmpKeywords.replace(/,/g," ")
@@ -377,22 +342,3 @@ function learn(user_training) {
 
 	console.log("Read: " + lineCount + " lines.")
 }
-
-/*
-var good_file = fs.createWriteStream(learn_dir + "/good.txt")
-good_file.on('error', function(err) { /* error handling })
-learned_emoji.forEach(function(v) {
-	good_file.write(v.emoji + "\t" + v.keywords + "\t" + v.match_type + "\n")
-})
-good_file.end()
-*/
-/*
-var bad_file = fs.createWriteStream(learn_dir + "/bad.txt")
-var bad_matches = []
-bad_matches = uniqueMatches(bad_match)
-bad_file.on('error', function(err) { /* error handling  })
-bad_matches.forEach(function(v) {
-	bad_file.write(v.emoji + "\t" + v.keywords + "\t" + v.match_type + "\n")
-})
-bad_file.end()
-*/

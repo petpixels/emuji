@@ -62,12 +62,9 @@ client.on('ready', () => {
 client.on('messageReactionAdd', (reaction, user) => {
 	var user = user.username.toLowerCase()
 	if (!(user.includes("emuji"))) {
-		//console.log("NOT AN EMU")
 		emuji.teach(reaction.emoji.name,reaction.message.content)
 		//emu.log("Trained " + reaction.emoji.name + " = " + reaction.message.content)
 	}
-  //if(reaction.emoji.name === "✅") {
-  //}
 })
 
 client.on('messageReactionRemove', (reaction, user) => {
@@ -136,7 +133,6 @@ client.on('message', (receivedMessage) => {
       var tmpCommand = ""
       var commandLoc = 0
 
-			//var emujis = fs.readFileSync(fileEmojis).toString().split("\n")
 			// double iteration has got to be a bad idea
 			// but if it's stupid and it works it's not stupid
 			for (var i = 0; i < aCommand.length; i++) {
