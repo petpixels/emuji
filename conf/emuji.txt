@@ -1,6 +1,6 @@
 🐤	emu,emoji
 🤖	bot,robot,"ml",machine
-🦍	gorill,silverback,kong,harambe
+🦍	gorill,silverback,kong,harambe,monkey
 🐶	puppy,yap,pupp
 🐕	dog
 🐩	pood,boug,wealthy,millionaire,groomed
@@ -22,26 +22,26 @@
 🐃	buffalo,bufalo,bufallo,"water buffalo","musk ox",oxen,bison,parab,buff,yip,yak,buffaloes
 🐄	cow,herd,pasture,barn,pattie,patty,burger,cattle
 🐷	pork,piglet
-🐖	hog,swine,"pig"
+🐖	hog,swine,"pig",hogging,hogged
 🐗	boar,boring
-🐽	oink,bacon,ham
+🐽	oink,bacon,ham,squeal,squee
 🐑	sheep
 🐏	bighorn,"ram"
 🐐	goat,greatest,baa,billy,william,great,all time,g.o.a.t,best
 🐫	bactrian,"two hump",camel
 🐪	dromedary,dromedery,hump,llama,alpaca
 🦒	giraf,girraf,geraf,neck,long horse
-🐘	elephan,elegant,forget,forgot
-🦏	rhino,rino,horn
+🐘	elephan,elegant,forget,forgot,republican,conservative
+🦏	rhino,rino,horn,hippo,hippopotamus
 🐭	mickey,jerry,danger,the brain,mini,minnie
 🐁	mouse,mice,pinkie,pinky
-🐀	"rat",rats,vermin
+🐀	"rat",rats,vermin,tattle,snitch,fink,betray,weasel,narc,nark,informant
 🐹	hamster,hampster,hamper,hamtaro,gerbil
 🐰	bun,roger,thumper,harvey,hare
 🐇	rabbit,rabit,"hop",easter,hopped,hopping,swift
 🐿	chipmunk,squirrel,girl
 🦔	hedge,sonic
-🦇	bat
+🦇	bat,vampire
 🐻	bear,bare,winnie
 🐨	koala,australia,"oz",sydney,melbourn,nsw,new south wales,perth
 🐼	panda,china,wwf
@@ -55,7 +55,7 @@
 🐧	peng,emperor,auk
 🕊	dove,peace
 🦅	eagle,america,"usa",merica,mercia,murica,murcia
-🦆	duck,fuck,fuk,"af",mallard,malliard,mallaird,bill,fucking
+🦆	duck,fuck,fuk,"af",mallard,malliard,mallaird,bill,fucking,goose,geese
 🦉	owl,wisdom,wise,raptor,!veloc,knowledge
 🐸	frog,amphib,kermit,pepe,toad,hypnotoad,michigan,frogger,froggy
 🐊	croc,gator
@@ -66,7 +66,7 @@
 🐉	draca,falcor,smaug,toothless
 🦕	bronto,loch,nessie,monster
 🦖	dino,rex,tyran,fossil
-🐳	whale,blowhole,spout
+🐳	whale,blowhole,spout,fail
 🐋	beluga,moby,ishmael
 🐬	dolph,flipp,tuna,flipper
 🐟	fish,pescat,poisson,pisces
@@ -79,7 +79,7 @@
 🦋	butterfly,moth,monarch,mariposa,uterus,vagin,uturus,vulva
 🐛	worm,caterpill,cocoon,coccoon,parasit
 🐜	ants,ant,aunt,bugs,bugz,antz,anthill,fire ant,"ant",carpenter
-🐝	hive,honey,swarm,killer,sting,bee,buzz,bees,swarm,behave,beehive,beeline,beyoncé,beyonce
+🐝	hive,honey,swarm,killer,sting,bee,buzz,bees,ibm,swarm,behave,beehive,beeline,beyoncé,beyonce
 🐞	bug,lady
 🦗	grasshopper,cricut,locust
 🕷	spider,black widow,arach
@@ -162,7 +162,7 @@
 🥗	salad
 🍿	popcorn
 🥫	can,canned,sauce,preserve,jar,spice
-🍱	bento,konmari,kondo
+🍱	bento,konmari,kondo,neat,organize
 🍘	cracker
 🍙	onigiri,triangle,triangl,triangular
 🍚	rice
@@ -251,7 +251,7 @@
 💒	wedding,marriage,marraige,married,engaged,fiance,chapel
 🗼	tower
 🗽	liberty,justice
-⛪	church,cathedral,basilica,basillica,parish,parrish,iglesia,iglecia,omg,believe,jesus,preacher,pastor,priest,pope
+⛪	church,cathedral,basilica,basillica,parish,parrish,iglesia,iglecia,believe,jesus,preacher,pastor,priest,pope
 🕌	mosq,god,allah
 🕍	synagog,temple
 ⛩	shinto,shrine
@@ -288,7 +288,7 @@
 🚎	trolley,trolly
 🚐	minibus,microbus
 🚑	waa,burn,ambulance,medic,911,emergency,murder
-🚒	fire,burn,911
+🚒	fire,firetruck,fire engine,fire-engine,burn,911
 🚔	fuzz,"cops",po po,popo,five-o,woop,the man,swat,busted,arrest,911,"dwi","dui",murder
 🚓	police,cop,swat,wanted,arrest,911,"dwi","dui",murder
 🚕	uber,lyft,"cab"
@@ -296,10 +296,10 @@
 🚗	drive,driving, car,auto,mobile,accord,civic,tesla,ride,pimp,riding
 🚘	crash,collision,collide
 🚙	SUV,jeep,vehicl,vehicular,"dwi","dui"
-🚚	truck
+🚚	truck,moving,pickup,pick-up,move
 🚛	shipping,deliver,load
 🚜	tractor
-🏎	race,f1,racing
+🏎	race,f1,racing,fast,speed,quick
 🏍	motorcycl,chopper
 🛵	vespa,moped
 🚲	bicycl
@@ -333,7 +333,7 @@
 🚡	aerial
 🛰	satel
 🚀	rocket,space
-🛎	service,customer,client,guest,server,waiter,garcon,waitress,waitstaff,"ring"
+🛎	ding,service,customer,client,guest,server,waiter,garcon,waitress,waitstaff,"ring"
 ⌛	hour,hourglass
 ⏳	time,wait,waiting
 ⌚	watch
@@ -394,8 +394,8 @@
 🥇	gold,first,1st
 🥈	silver,second,2nd
 🥉	bronz,third,3rd,3st
-🏆	trophy
-⚽	football,futbol
+🏆	trophy,victory,victories,participation,participate,participant,winner,winning
+⚽	football,futbol,soccer
 ⚾	baseball,ballpark,ballgame,homerun,homer
 🏀	ball,basketball,bball,b-ball,hoops,bounce,bounc,baller,score
 🏐	volley,volleyball,spike
@@ -458,7 +458,7 @@
 👢	boot
 👑	crown,king,queen,prince
 👒	chapeau
-🎩	top,topham,tophat,"hat",abraham,lincoln,lobbyist,investor,monopoly,rich,billionair,millionair
+🎩	top,topham,tophat,"hat",abraham,lincoln,lobbyist,investor,monopoly,rich,billionair,millionair,classy,formal
 🎓	graduat,universit,colleg,educat
 🧢	hat,cap,ballcap
 ⛑	helmet
@@ -472,7 +472,7 @@
 📢	loudspeaker,shout,yell
 📣	megaphone,holler,holla,scream
 📯	flugelhorn,french horn,horn
-🔔	bell
+🔔	bell,dong,doorbell,liberty,taco
 🎼	music
 🎵	"sing",eighth,tune,note
 💃	dance,dancing,party
@@ -688,7 +688,7 @@
 🔰	JDM
 ⭕	circle
 ✔	check,mate,checking
-☑	checkbox
+☑	checkbox,review,audit,form,checklist,list
 ✅	checkmark
 ✖	ex
 ➕	plus,positive,positiv
@@ -814,7 +814,7 @@
 💁	flip,info,sass,bold,mmm,nerve,assert,whatever,ikr,help,helping,idk,don't know
 🙇	bowing,pressure,favour,favor
 🤦	facepalm,ffs,smh,picard,face palm,frustrat,embarass,embarras
-🤷	shrug,dunno,confused,maybe,don't know
+🤷	shrug,dunno,confused,maybe,don't know,srsly,seriously
 👨‍⚕️	nurse,medical
 👩‍⚕️	doctor,health
 👨‍🎓	student
@@ -887,7 +887,7 @@
 😜	jank,drunk,fucked up,messed up,crazy,nutty,insane,insan,loco
 🤪	Unsupported
 😝	squint
-🤑	cash,expense,expensive,costly,pricey,spendy,price,cost,dollar
+🤑	cash,expense,expensive,costly,pricey,spendy,price,cost,dollar,overtime,paycheck,payday,pay day,payment
 🤗	jazz
 🤫	shush,shh,quiet,library,silence
 🤭	gasp,oops,whoops,ouch,hurt,whoa
@@ -916,7 +916,7 @@
 🤯	mindblow,explode,nuclear,blown
 🧐	monocle,guess,gotcha,huh
 🤓	nerdy,smart,dork,algebra,math,trigonomet,calcul,geometr,brainy,calc,quant,clever,know,algorithm
-😎	cool,badass,excellent,exelent,classy,zoop
+😎	cool,badass,excellent,exelent,zoop
 😕	confused
 😟	concern,letdown,let down
 🙁	unhappy,upset,depress,depressed,disappoint,disapoint
@@ -927,7 +927,7 @@
 😨	fear,terror,terrify,terrifie,scare,fright
 😰	anxious,anxiety,worry
 😖	damnit,dammit
-😱	scream,"eek"
+😱	omg,scream,"eek"
 😖	puzzled,stumped
 😣	persever
 😞	dissapointed,"let down"
@@ -938,7 +938,7 @@
 😠	angryface
 🤬	cussing,cussed,swearing,cursing,bad words
 💩	poo,shit,crap,turd,bs,back and forth,feces,doo
-🤡	clown,bozo,bezos,krusty,pennywise,juggalo,juggalette,jugalo,juggal,jugal
+🤡	clown,bozo,bezos,krusty,pennywise,juggalo,juggalette,jugalo,juggal,jugal,creepy,creep,creeper
 👹	mask
 👺	satan,devil,goblin,demon,apocalyp
 🐒	monkey,baboon,chimp,mandrill,rhesus,resus,reeces,macaq,"my cock"
