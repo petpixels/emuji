@@ -1,5 +1,5 @@
-var MongoClient = require('mongodb').MongoClient;
-var url = "mongodb://localhost:27017/";
+const MongoClient = require('mongodb').MongoClient
+const uri = "mongodb+srv://CatBotAdmin:P1PqVQPO2FmBju0L@cluster0-msq7h.mongodb.net/test?retryWrites=true";
 
 const fs = require('fs')
 
@@ -51,14 +51,46 @@ function dictionary_to_json(file = "./conf/emuji.txt") {
 		}
 	}
 
+	deleteAll()
+	savetoMongo(entries)
 	fs.writeFile('dictionary.json', JSON.stringify(entries), (err) => {
     // throws an error, you could also catch it here
     if (err) throw err;
 
     // success case, the file was saved
     console.log('Dictionary saved!');
-});
+	});
 
 	console.log(entries)
 
+}
+
+
+function savetoMongo(emoji_json) {
+	if (emoji_json) {
+		MongoClient.connect(uri, function(err, db) {
+		  if (err) throw err;
+
+			var dbo = db.db("emuji")
+		  dbo.collection("dictionary").insertMany(emoji_json, function(err, res) {
+		    if (err) throw err;
+		    console.log("Emojis inserted")
+				console.log(emoji_json)
+		    db.close()
+		  })
+		})
+	}
+}
+
+function deleteAll() {
+	MongoClient.connect(uri, function(err, db) {
+	  if (err) throw err
+	  var dbo = db.db("emuji")
+	  var query = { }
+		dbo.collection("dictionary").deleteMany(query, function(err, obj) {
+	    if (err) throw err;
+	    console.log(obj.result.n + " document(s) deleted");
+	    db.close()
+	  })
+	})
 }
