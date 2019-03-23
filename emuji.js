@@ -45,9 +45,10 @@ client.on('ready', () => {
   emu.keywords("emu ostrich cassowary bird")
   emu.rating("G")
 	emuji.load_dictionary()
+	emuji.load_training_data()
 
-	var test = emuji.load_dictionary()
-	console.log(test)
+	//var test = emuji.load_dictionary()
+	//console.log(test)
 
   // set discord client "now playing"
   client.user.setActivity(emu.play())
@@ -61,8 +62,9 @@ client.on('ready', () => {
 client.on('messageReactionAdd', (reaction, user) => {
 	var user = user.username.toLowerCase()
 	if (!(user.includes("emuji"))) {
+		//console.log("NOT AN EMU")
 		emuji.teach(reaction.emoji.name,reaction.message.content)
-		emu.log("Trained " + reaction.emoji.name + " = " + reaction.message.content)
+		//emu.log("Trained " + reaction.emoji.name + " = " + reaction.message.content)
 	}
   //if(reaction.emoji.name === "✅") {
   //}
@@ -90,8 +92,6 @@ client.on('message', (receivedMessage) => {
 	// React to all messages and log each reaction
 	//var emuEmoji = emuji.react(receivedMessage.content)
 	var emuEmoji = emuji.react(receivedMessage.content)
-	//console.log("MONGO EMOJI: ***** ")
-	//console.log(mongoEmoji)
 
 	var banned = false
 	for (channel in banned_channels) {
@@ -101,7 +101,7 @@ client.on('message', (receivedMessage) => {
 	}
 
 	if (!(banned)) {
-	if (emuEmoji) {
+		if ((emuEmoji) && (emuEmoji.length >= 0)) {
 			for (var i = 0; i < emuEmoji.length; i++) {
 				//console.log(i)
 				//emu.log(receivedMessage.channel + msg)
