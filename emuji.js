@@ -26,6 +26,12 @@ var banned_channels = [
 	"550852692688240661"  // dub-dub
 ]
 
+const dclassify = require('dclassify');
+
+var Classifier = dclassify.Classifier;
+var DataSet    = dclassify.DataSet;
+var Document   = dclassify.Document;
+
 
 var emu = new emubot()
 
@@ -33,7 +39,7 @@ process.on('uncaughtException', function(err) {
   emu.log(err)
   console.log(err)
   // set discord client "now playing"
-  // client.user.setActivity(emuji.play("Dead"))
+  // client.user.setActivity(emuji.play("
 });
 
 client.on('ready', () => {

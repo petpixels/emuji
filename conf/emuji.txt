@@ -101,12 +101,12 @@
 🌴	palm
 🌵	cactus,cacti,cactipodes,sticky,cactuar,cact,mescalin,peyote
 🌾	rice,wheat,grain,millet,quinoa,qinoa,oats,barley
-🌿	fern,herb
+🌿	fern,herb,marijuana,weed,dank
 ☘	shamrock,irish,leprech
 🍀	clover,luck
 🍁	leaf,maple,canad
 🍂	autumn,"fall"
-🍃	leaves,"falling"
+🍃	leave,leaves,"falling"
 🍇	grape,cleopatra,purple
 🍈	cantelope,canteloupe,musk,honeydew,"melon","elon"
 🍉	watermelon,watermellon
@@ -194,7 +194,7 @@
 🍭	lolli,loli,sucker
 🍮	flan,custard
 #	🍯	Unsupported
-🍼	baby,bottle
+🍼	baby,bottle,lactate,lactat,breastfeeed,nursing
 🥛	milk,glass,thirst,thirsty
 ☕	coffee,cofee,cafe,brew,java,latte,cappu,espresso,expresso,mocha
 🍵	tea
@@ -251,7 +251,7 @@
 💒	wedding,marriage,marraige,married,engaged,fiance,chapel
 🗼	tower
 🗽	liberty,justice
-⛪	church,cathedral,basilica,basillica,parish,parrish,iglesia,iglecia,believe,jesus,preacher,pastor,priest,pope
+⛪	church,cathedral,basilica,basillica,parish,parrish,iglesia,iglecia,believe,jesus,preacher,pastor,priest,pope,stg
 🕌	mosq,god,allah
 🕍	synagog,temple
 ⛩	shinto,shrine
@@ -359,7 +359,7 @@
 🌩	thunder
 🌪	tornad
 🌫	foggy
-🌬	wind,blow,breez
+🌬	wind,blow,breez,fart,sneeze,poot
 🌀	cyclon,hurrican,hurican
 🌈	rainbow,gay,homo,fag,lesb,lgbt,bisex,queer,pflag,"trans"
 🌂	parasol,shade
@@ -400,7 +400,7 @@
 🏀	ball,basketball,bball,b-ball,hoops,bounce,bounc,baller,score
 🏐	volley,volleyball,spike
 🏸	racket,shuttlecock,badminton,badmitt
-🏈	pigskin,field,american football,foot,touchdown,touch down,fieldgoal,field goal
+🏈	pigskin,field,american football,foot,touchdown,touch down,fieldgoal,field goal,tackle
 🏉	rugby
 🎾	tennis,fetch,serve
 🎳	bowling,strike,spare
@@ -416,7 +416,7 @@
 ⛸	skat,rink
 🛷	sled,sleigh,slay
 🥌	curling
-💅	fingernail,difficult,hard,easy,simple,challeng,nailpolish,relax,chill,resting,nails,fleek,fabulous,diva,mani,peti,mani-pedi,manipedi,pedicure,manicure
+💅	fingernail,difficult,hard,easy,simple,challeng,nailpolish,relax,chill,nails,fleek,fabulous,diva,mani,peti,mani-pedi,manipedi,pedicure,manicure
 🎯	target,bullseye
 🎱	pool,billiard,eight,"8"
 🔮	crystal,fortun,futur,future
@@ -471,7 +471,7 @@
 🔈	speaker,loud,audio,bass,thumping,volume
 📢	loudspeaker,shout,yell
 📣	megaphone,holler,holla,scream
-📯	flugelhorn,french horn,horn
+📯	flugelhorn,french horn,horn,toot
 🔔	bell,dong,doorbell,liberty,taco
 🎼	music
 🎵	"sing",eighth,tune,note
@@ -530,8 +530,8 @@
 📸	pic,photo
 📹	camcorder,record,recorded,recording
 📼	vhs,beta,vcr,rewind,tape,cassette,casette,cassete
-🔍	search
-🔎	find,found
+🔍	holmes,homie,homeboy,watson,magnify,zoom
+🔎	find,found,search,looking,found
 🕯	candle
 💡	idea,bulb,lightbulb,light
 🔦	flash
@@ -640,7 +640,7 @@
 ⬇	"down"
 ⬅	"left"
 ↕	vertical,tall,"up and down"
-↔	horizontal,direction,long,wide,left and right,horizont,side by side,left from right
+↔	horizontal,direction,long,wide,left and right,horizont,side by side,left from right,between
 🔙	"back"
 🔚	"end"
 🔛	"on"
@@ -658,7 +658,7 @@
 ♑	capricorn
 ♒	aquarius
 ♓	pisces
-⚛	scien,atom,nuclear,quantum,physics,atomic,science,scientific,theory,hypothesis,thesis
+⚛	scien,atom,nuclear,quantum,physics,atomic,science,scientific,theory,hypothesis,thesis,chaos
 ☯	yin,yang,yinyang,yin-yang,balance,harmony,equal,"chi",qigong,ching,tao,dao,buddh
 ✝	christ,nazareth,cross,crucifix
 ☦	orthodox
